@@ -41,4 +41,4 @@ jobs:
 
   deploy-website:
     needs: update-this-week
-    uses: ./.github/workflows/deploy.yml
+    uses: ./.github/workflows/ci.yml
