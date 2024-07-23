@@ -3,6 +3,9 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch: # can be invoked manually from UI
+  workflow_call: # can be invoked from other workflows
+  
 permissions:
   contents: write
 jobs:
@@ -22,6 +25,6 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: pip install mkdocs-material
+      - run: pip install mkdocs-material 
       - run: pip install -r requirements.txt
       - run: mkdocs gh-deploy --force
