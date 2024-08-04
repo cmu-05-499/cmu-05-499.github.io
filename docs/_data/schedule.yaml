@@ -1,9 +1,9 @@
 - date: Mon Aug 26
   homework:
-    deadline: ''
+    deadline: 'September 3, 2024'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW0 - Accessible Presentations / Team Formation Skills Survey'
+    numDays: 7
   lecture:
     link: ''
     name: ''
@@ -24,7 +24,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Course Introduction'
   reading:
     link: ''
     name: ''
@@ -54,13 +54,13 @@
 
 - date: Thu Aug 29
   homework:
-    deadline: ''
+    deadline: 'September 11, 2024'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW1 - Disability Deep Dive'
+    numDays: 10
   lecture:
     link: ''
-    name: ''
+    name: 'Disabilities Part 1'
   reading:
     link: ''
     name: ''
@@ -114,7 +114,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Disabilities Part 2 + Team Formation'
   reading:
     link: ''
     name: ''
@@ -150,7 +150,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'History of Disability Policy Part 1'
   reading:
     link: ''
     name: ''
@@ -204,7 +204,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'History of Disability Policy Part 2'
   reading:
     link: ''
     name: ''
@@ -240,7 +240,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Assistive Technologies Part 1'
   reading:
     link: ''
     name: ''
@@ -288,13 +288,13 @@
 
 - date: Tue Sep 17
   homework:
-    deadline: ''
+    deadline: 'September 24, 2024'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW2 - Accessibility Evaluation'
+    numDays: 7
   lecture:
     link: ''
-    name: ''
+    name: 'Assistive Technologies Part 2'
   reading:
     link: ''
     name: ''
@@ -330,7 +330,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'AI-Based Assistive Technologies'
   reading:
     link: ''
     name: ''
@@ -384,7 +384,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Software Accessibility Guidelines and Testing'
   reading:
     link: ''
     name: ''
@@ -414,13 +414,13 @@
 
 - date: Thu Sep 26
   homework:
-    deadline: ''
+    deadline: 'October 8, 2024'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW3 - Project Pitches'
+    numDays: 8
   lecture:
     link: ''
-    name: ''
+    name: 'Design Methods'
   reading:
     link: ''
     name: ''
@@ -474,7 +474,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'IRB-Supported Research'
   reading:
     link: ''
     name: ''
@@ -510,7 +510,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Disability Advocacy'
   reading:
     link: ''
     name: ''
@@ -558,13 +558,13 @@
 
 - date: Tue Oct 08
   homework:
-    deadline: ''
+    deadline: 'October 11, 2024'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW4 - Team Contracts'
+    numDays: 2
   lecture:
     link: ''
-    name: ''
+    name: 'Project Pitches'
   reading:
     link: ''
     name: ''
@@ -594,13 +594,13 @@
 
 - date: Thu Oct 10
   homework:
-    deadline: ''
+    deadline: 'October 24, 2024'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW5 - Project Specification + Mini-IRB'
+    numDays: 10
   lecture:
     link: ''
-    name: ''
+    name: 'Responsible AI + Data Equity'
   reading:
     link: ''
     name: ''
@@ -654,7 +654,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'NO CLASS - Fall Break'
   reading:
     link: ''
     name: ''
@@ -690,7 +690,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'NO CLASS - Fall Break'
   reading:
     link: ''
     name: ''
@@ -744,7 +744,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Games and Sports'
   reading:
     link: ''
     name: ''
@@ -774,13 +774,13 @@
 
 - date: Thu Oct 24
   homework:
-    deadline: ''
+    deadline: 'November 14, 2024'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW6a - Project Milestone 1'
+    numDays: 15
   lecture:
     link: ''
-    name: ''
+    name: 'Virtual Reality VR/AR/XR/MR'
   reading:
     link: ''
     name: ''
@@ -834,7 +834,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Guest Speaker'
   reading:
     link: ''
     name: ''
@@ -870,7 +870,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Disability and Creative Digital Arts'
   reading:
     link: ''
     name: ''
@@ -924,7 +924,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'NO CLASS - Democracy Day'
   reading:
     link: ''
     name: ''
@@ -960,7 +960,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Accessible Software Development'
   reading:
     link: ''
     name: ''
@@ -1014,7 +1014,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Inclusive Education'
   reading:
     link: ''
     name: ''
@@ -1044,13 +1044,13 @@
 
 - date: Thu Nov 14
   homework:
-    deadline: ''
+    deadline: 'November 26, 2024'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW6b - Project Milestone 2'
+    numDays: 8
   lecture:
     link: ''
-    name: ''
+    name: 'Disability Employment'
   reading:
     link: ''
     name: ''
@@ -1098,13 +1098,13 @@
 
 - date: Tue Nov 19
   homework:
-    deadline: ''
+    deadline: 'November 27, 2024'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW7 - Celebrating Accessibility Essay'
+    numDays: 7
   lecture:
     link: ''
-    name: ''
+    name: 'Transportation + Housing + Museums'
   reading:
     link: ''
     name: ''
@@ -1140,7 +1140,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Non-Work Activities (e.g. Cooking, exercise, dating)'
   reading:
     link: ''
     name: ''
@@ -1188,13 +1188,13 @@
 
 - date: Tue Nov 26
   homework:
-    deadline: ''
+    deadline: 'December 13, 2024'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW6C - Project Presentations + Report'
+    numDays: 17
   lecture:
     link: ''
-    name: ''
+    name: 'Fabrication and DIY for Accessibility'
   reading:
     link: ''
     name: ''
@@ -1230,7 +1230,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'NO CLASS - Thanksgiving'
   reading:
     link: ''
     name: ''
@@ -1284,7 +1284,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Final Project Presentations'
   reading:
     link: ''
     name: ''
@@ -1320,7 +1320,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
+    name: 'Semester Review'
   reading:
     link: ''
     name: ''
@@ -1428,43 +1428,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: ''
-  reading:
-    link: ''
-    name: ''
-  recitation:
-    handout: ''
-    name: ''
-    quiz: ''
-    slides: ''
-
-- date: Mon Dec 16
-  homework:
-    deadline: ''
-    link: ''
-    name: ''
-    numDays: 0
-  lecture:
-    link: ''
-    name: ''
-  reading:
-    link: ''
-    name: ''
-  recitation:
-    handout: ''
-    name: ''
-    quiz: ''
-    slides: ''
-
-- date: Tue Dec 17
-  homework:
-    deadline: ''
-    link: ''
-    name: ''
-    numDays: 0
-  lecture:
-    link: ''
-    name: ''
+    name: 'Final Project Report Due!'
   reading:
     link: ''
     name: ''
