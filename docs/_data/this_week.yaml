@@ -1,5 +1,23 @@
-lectures: []
+lectures:
+- date: Tue Aug 27
+  link: ''
+  name: Course Introduction
+- date: Thu Aug 29
+  link: ''
+  name: Disabilities Part 1
 
-projects: []
+projects:
+- date: Mon Aug 26
+  deadline: September 3, 2024
+  end_date: 2024-09-04 00:00:00
+  link: ''
+  name: HW0 - Accessible Presentations / Team Formation Skills Survey
+  numDays: 7
+- date: Thu Aug 29
+  deadline: September 11, 2024
+  end_date: 2024-09-12 00:00:00
+  link: ''
+  name: HW1 - Disability Deep Dive
+  numDays: 10
 
 recitation: null
