@@ -8,47 +8,59 @@ hide:
 The course is currently planned to be entirely in person for lectures and recitations. Most office hours will be in person, but some may be held over Zoom as well. The course uses Canvas and Gradescope for homework submission, grading, discussions, questions, and supplementary documents; slides and handouts are posted here on the course website; GitHub is used to coordinate group work. We also use Slack for communication and group work: check your email during the first week of classes for the Slack sign up link.
 
 ## Waitlist
-The class has a waitlist long enough that we don't expect to clear it all. However, we will add as many students as we can. Waitlists are processed in FIFO order. Please do not email the instructors about waitlist status individually unless 17-313 is a required class for you to graduate this year. If you are on the waitlist, we recommend attending the first couple of weeks of class and attempting the individual project HW1. If you do make it through, there won't be extra time provided to catch up since HW2 is a team activity and every team member will be expected to be up to speed.
+The class has a waitlist. We will add as many students as we can. Waitlists are processed in FIFO order. If you are on the waitlist, we recommend attending the first couple of weeks of class and attempting the first homework. 
 
 ## Prerequisites
-There are no formal prerequisites, but we strongly recommend having a solid foundation in programming before taking this class (e.g. 15-121, 15-122). You will also get more out of the course if you have experience with some larger development projects, for example, through larger class projects (e.g. 17-214, 15-410), internships, or open-source contributions. If you have questions, please don't hesitate to reach out to the class instructors.
+There are two classes of prerequisites for this class: undergraduates and graduates. 
+
+For undergraduates, we strongly recommend that you have a good foundation in team-based software development. Thus, we expect you to have taken at least **one** of the following courses:
+
+- 05-410/610 UCRE
+- 05-430/630 PUI
+- 05-391/891 DHCS
+- 67-272 Application Design and Development
+- 67-240 Mobile Web Design and Development
+- 17-437/637 Web Application and Development
+
+In addition, you should have taken or currently be taking 17-313 Foundations of Software Engineering.
+
+For graduate students, we do not have specific course requirements, but you must have experience or be willing to engage in either software development tasks or user studies. You need not be strong in both to take this class.  
+
+If you have questions, please reach out to the class instructors.
 
 ## Communication
 The primary form of communication within this course is through Slack. We will make announcements through a dedicated channel in Slack, and also provide channels for homework clarifications and team-based communication. As such, we **highly recommend** that students install Slack on their phones / desktop with notifications enabled.
 
-The instructors and TAs will also hold weekly office hours to provide support with course materials and projects. You can find the office hours schedule updated weekly here on the course website.
+The instructors will hold weekly office hours to provide support with course materials and projects. You can find the office hours schedule updated weekly here on the course website.
 
-You can contact the course instructors and TAs via both Slack and email. Your team will also have assigned TAs as your primary point of contact for additional support with assignment or recitation-related questions. When contacting instructors or your designated TAs, please email/message all instructors/both TAs at the same time.
+You can contact the course instructors and graders via both Slack and email. When contacting instructors, please email/message **all** instructors/both TAs at the same time, or your communication will be rejected, unanswered.
 
 ## Teamwork
-Teamwork is an essential part of this course. Most projects are done in teams of 3-5 students. Teams will be assigned by the instructors and stay together for multiple projects. Most projects have a component that is graded for the entire group and a component that is graded individually. 
+Teamwork is an essential part of this course. Projects are done in teams of 5 students. Teams will be self-organized and stay together for the entirety of the class. Choose your teammates wisely. Make sure your team has some good programmers and some good user researchers. You'll need both for a successful project.
 
-Being able to address team issues in software projects is one of the core learning objectives of this class. Guidance on teamwork, reflection, and conflict resolution will be provided throughout the semester and are an essential component of the class. We expect significant efforts in attempting to address the team issues before asking instructors and teaching assistants to step in. However, we will always be available to provide advice on how to navigate these issues.
+Being able to address team issues in software projects is one of the core learning objectives of this class. Guidance on teamwork, reflection, and conflict resolution will be provided throughout the semester and are an essential component of the class. We expect significant efforts in attempting to address the team issues before asking instructors to step in. When you get stuck, we are always available to provide advice on how to navigate these issues.
 
 ## Textbook
 Various readings throughout the semester are available online or through the library; we do not have a single textbook but rather assemble readings from different sources.
 
-As optional supplementary reading consider the (freely available) [Software Engineering at Google, Lessons Learned from Programming Over Time](https://abseil.io/resources/swe-book).
-
-## Devices in Lecture and Recitation
-
-Research shows that using devices on non-class related activities harms both the device user's learning, and other students' learning as well. Therefore, in general, we do not allow the use of devices during lecture. If you genuinely use your laptop for class-related activities (note-taking, etc), tell us, and we will make an exception. However, we ask that if you do so, you are careful to keep your devices in note-taking mode (and don’t stray to Facebook, homework, etc). In addition, you will be required to sit in the back row of the lecture to minimize the impact your screen has on others. 
-
-Note that recitation activities will often involve devices, so please do bring your laptop!
-
 ## Assessment
-Evaluation will be based on the following distribution: 60% projects, 20% midterm, 20% participation (including lecture exercises, pre-lecture reading quizzes, and recitation exercises). 
+Evaluation will be based on the following distribution: 84% projects, 16% participation. Project points will be divided into 50% related to the project deliverable and 50% peer assessment. 
 
 **Project Points Breakdown (tentative)**
 
-| Project | # Days Given | Points | % of HW grade |  % of total grade |
+| Project | # Days Given | Points | % of project grade |  % of total grade |
 | --- | --- | --- | --- | --- |
-| 1 | 9 | 100 | 10% | 6% |
-| 2 | 35 | 275 | 27.5% | 16.5% |
-| 3 | 10  | 100 | 10% | 6% |
-| 4 | 14  | 125 | 12.5% | 7.5% |
-| 5 | 27 | 400 | 40% | 24% |
-|   | **TOTAL**   | 1000 | 100% | 60% | 
+| 0 | 7 | 35 | 4% | 6% | 3.5%
+| 1 | 13 | 70 | 8% | 7% |
+| 2 | 7  | 105 | 12.5% | 10.5% |
+| 3 | 12  | 70 | 8% | 7% |
+| 4 | 3 | 35 | 4% | 3.5% |
+| 5 | 14 | 105 | 12.5% | 10.5% |
+| 6a | 21 | 105 | 12.5% | 10.5% |
+| 6b | 12 | 105 | 12.5% | 10.5% |
+| 6c | 17 | 140 | 16% | 14% |
+| 7 | 8 | 70 | 8% | 7% |
+|   | **TOTAL**   | 840 | 100% | 84% | 
 
 ## Regrades
 Regrade requests can be submitted via Gradescope. The regrade period is open for one week after grades have been released for a particular assignment.
@@ -56,11 +68,10 @@ Regrade requests can be submitted via Gradescope. The regrade period is open for
 ## Late Work and Absence Policy
 
 ### Participation
-Participation points in this class are earned through a series of pre-lecture reading assignments, lecture activities, and recitations. To accommodate for life's uncertainties (e.g. health issues, scheduling conflicts), you will automatically get full points for up to **four** missed participation activities to account for any absences. You do not need to email instructors individually for one-off absences of this sort.
 
-There will be **no make-ups** for participation points, but you are strongly encouraged to come to office hours to learn or review the materials that you may have missed.
+Class attendance and participation are important parts of the learning in this course. To account for this, a portion of the final grade is based on your regular attendance and active participation (see Assessment section). That said, we also recognize that students may need to miss class for a variety of reasons (religious observance, job interview, university-sanctioned event, or illness). For that reason, all students are permitted two class absences without any impact on the final grade. When you must miss class, please notify the instructors on Slack (at least 24 hours in advance except for illness/emergency), so that we can discuss alternative arrangements for catching up on class and associated work. If you encounter extenuating circumstances and must miss more than two classes, please come and discuss the issue with the instructors; we would like to find a way to support you.
 
-If you find yourself in a situation that calls for an extended absence, please have your academic advisor reach out to the instructors, and they will work to find a solution on a case by case basis.
+If you find yourself in a situation that calls for an extended absence for other reasons, please have your academic advisor reach out to the instructors, and they will work to find a solution on a case by case basis.
 
 ### Projects
 Late work will receive feedback but no credit. Due to heavy emphasis on planning & teamwork in this course there are no late days; we expect that you **anticipate unexpected events in your planning**, and coordinate with your teammates when they arise. Exceptions to this policy will be made only in extraordinary circumstances, almost always involving a family or medical emergency, with your academic advisor or the Dean of Student Affairs requesting the exception on your behalf. 
@@ -73,57 +84,53 @@ Describing tradeoffs among decisions and communication with less technical stake
 
 ### Policy on use of Generative AI for Writing
 
-You may use generative AI technologies such as *ChatGPT* or *CoPilot* for assisting in code development or writing responses to homework questions, **unless the question specifically prohibits it**. However, any use of AI comes with two caveats: (1) you must clearly indicate the use of such technology (and name the tool) in every homework question or source code file where an AI tool was used as a form of attribution, just as you would if you had taken help from a friend; (2) you are liable for factually inaccurate answers or unspecific rambling produced by AI tools; it is your responsibility to edit AI-produced content before submitting it for class purposes. 
+You may use generative AI technologies such as *ChatGPT* or *CoPilot* for assisting in code development or client communications, **unless the question specifically prohibits it**. However, any use of AI comes with two caveats: (1) you must clearly indicate the use of such technology (and name the tool) in every homework question or source code file where an AI tool was used as a form of attribution, just as you would if you had taken help from a friend; (2) you are liable for factually inaccurate answers or unspecific rambling produced by AI tools; it is your responsibility to edit AI-produced content before submitting it for class purposes. 
 
-## Professionalism
-Your classmates are your colleagues. This is particularly true in this course, where we aim to provide you with principles, practices, tools, and paradigms that will enable you to be an effective, real-world Software Engineer. We ask that you treat one another like the professionals you are and that you are preparing to be.
+## Recordings
 
-To that end, we will not tolerate harassment in this class. We define harassment as unwelcome or hostile behavior of an ad hominem nature, i.e., that focuses not on ideas but on people and identity. This includes offensive verbal or written comments in reference to gender, sexual orientation, national origin, disability, physical appearance, race, or religion; sexual images in public spaces; deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of class meetings, inappropriate physical contact, and unwelcome sexual attention.
+For this course, we will be recording class sessions and making them available to you for your personal, educational use. Recordings of class sessions are covered under the Family Educational Rights and Privacy Act (FERPA) and must _not_ be shared with anyone outside your course-section. The purpose of these recordings is so students in this course (and _only_ students in this course) can watch or re-watch past class sessions. Feel free to use the recordings if you would like to review something we discussed in class or if you are temporarily unable to attend class.
 
-Harassment is against the law and we have no tolerance for it, and neither does the university. Even when behavior does not rise to the level of harassment (even if you think you're "just joking!"), it can still make people very uncomfortable, and harm their educational and professional career by forcing them to devote mental energy to something other than the material they are trying to learn or the professional successes they are trying to achieve. However, we expect that we do not need to threaten you to earn your respect on this matter: we simply ask that you treat one another like professionals, in the most positive sense.
+## Devices in Lecture and Recitation
 
-This has two implications:
+Research shows that using devices on non-class related activities harms both the device user's learning, and other students' learning as well. Therefore, in general, we do not allow the use of any devices during lecture. 
 
-- If you feel someone is violating these principles (for example, with a joke that could be interpreted as sexist, racist, or exclusionary), and you feel you have the standing to do so, speak up! Do not be a bystander to unprofessional behavior.
-- If you do not feel comfortable doing so, and/or if the behavior persists, send a private email to the course instructors or set up a meeting with us to discuss the matter. We will preserve your anonymity. We, the course staff, are committed to affording you the same respect we ask you to afford one another. If you feel that we are not doing so, we hope you will feel comfortable either telling us so directly, or approaching another one of the course staff with your concerns.
-
-(Thank you to Shriram Krishnamurthi and Evan Peck for sharing their own policies, from which we drew inspiration for this one.)
 
 ## Academic Honesty and Collaboration
 The usual policies apply, especially the [University Policy on Academic Integrity](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html). Many of the projects will be done in groups. We expect that group members collaborate with one another, but that groups work independently from one another, not exchanging results with other groups. Within groups, we expect that you are honest about your contribution to the group's work. This implies not taking credit for others' work and not covering for team members that have not contributed to the team. Otherwise, our expectations regarding academic honesty and collaboration for group work are the same as for individual work, substituting elevated to the level of "group."
 
-The course includes both individual projects  and individual components of group projects. Although your solutions for individual parts will be based on the content produced for the group component (e.g., written reflections on lessons learned), we treat individual components of group projects as equivalent to individual projects overall, and expect you to complete such components independently of your groupmates.
-
-The rest of this academic honesty and collaboration content is an adaption of the policy used in 17-214:
-
-"You may not copy any part of a solution to a problem that was written by another student, or was developed together with another student, or was copied from another unauthorized source such as the Internet. You may not look at another student's solution, even if you have completed your own, nor may you knowingly give your solution to another student or leave your solution where another student can see it.
-
-Here are some examples of behavior that are inappropriate:
-
-- Copying or retyping, or referring to, files or parts of files (such as source code, written text, or unit tests) from another person or source (whether in final or draft form, regardless of the permissions set on the associated files) while producing your own. This is true even if your version includes minor modifications such as style or variable name changes or minor logic modifications.
-- Getting help that you do not fully understand, and from someone whom you do not acknowledge on your solution.
-- Writing, using, or submitting a program that attempts to alter or erase grading information or otherwise compromise security of course resources.
-- Lying to course staff.
-- Giving copies of work to others, or allowing someone else to copy or refer to your code or written assignment to produce their own, either in draft or final form. This includes making your work publicly available in a way that other students (current or future) can access your solutions, even if others' access is accidental or incidental to your goals. Beware the privacy settings on your open source accounts!
-- Coaching others step-by-step without them understanding your help."
-
 If any of your work contains a statement that was was copied verbatim from an external source, you must put it in quotes and cite the source. If you are paraphrasing an idea you read elsewhere, you must acknowledge the source. If you are using a tool to help format or structure text significantly based on content and facts that you provided, you must acknowledge the use of such tools (see policy on generative AI tools above). Using existing material without proper citation is plagiarism, a form of cheating. If there is any question about whether the material is permitted, you must get permission in advance. We will be using automated systems to detect software plagiarism.
-
-"It is not considered cheating to clarify vague points in the assignments, lectures, lecture notes; to give help or receive help in using the computer systems, compilers, debuggers, profilers, or other facilities; or to discuss ideas at a very high level, without referring to or producing code.
 
 Any violation of this policy is cheating. The minimum penalty for cheating (including plagiarism) will be a zero grade for the whole assignment. Cheating incidents will also be reported through University channels, with possible additional disciplinary action (see the above-linked University Policy on Academic Integrity).
 
-If you have any question about how this policy applies in a particular situation, ask the instructors or TAs for clarification."
+If you have any question about how this policy applies in a particular situation, ask the instructors for clarification.
 
 Note that the instructors respect honesty in these (and indeed most!) situations.
 
-## Accommodations
-If you wish to request an accommodation due to a documented disability, please contact [Disability Resources](https://www.cmu.edu/disability-resources/) at 412-268-6121 or [access@andrew.cmu.edu](mailto:access@andrew.cmu.edu).
+## Diversity Statement
+Your classmates are your colleagues. This is particularly true in this course, where we aim to provide you with principles, practices, tools, and paradigms that will enable you to be an effective, real-world accessibility researcher. We ask that you treat one another like the professionals you are and that you are preparing to be.
 
-## Policy on Healthcare-Related Absence
-We don't record our lectures, because they are highly interactive and tricky to record, but we do post slides at the end of the day. Please go over them and feel free to attend any of the instructors' office hours to catch up on the material. Please see the late-work policy above for how healthcare-related absences are accounted for in participation points.
+We are diverse in many ways, and this diversity is fundamental to building and maintaining an equitable and inclusive campus community. Diversity can refer to multiple ways that we identify ourselves, including but not limited to race, color, national origin, language, sex, disability, age, sexual orientation, gender identity, religion, creed, ancestry, belief, veteran status, or genetic information. Each of these diverse identities, along with many others not mentioned here, shape the perspectives our students, faculty, and staff bring to our campus. We, at CMU, will work to promote diversity, equity and inclusion not only because diversity fuels excellence and innovation, but because we want to pursue justice. We acknowledge our imperfections while we also fully commit to the work, inside and outside of our classrooms, of building and sustaining a campus community that increasingly embraces these core values.
+
+Each of us is responsible for creating a safer, more inclusive environment.
+
+Unfortunately, incidents of bias or discrimination do occur, whether intentional or unintentional. They contribute to creating an unwelcoming environment for individuals and groups at the university. Therefore, the university encourages anyone who experiences or observes unfair or hostile treatment on the basis of identity to speak out for justice and support, within the moment of the incident or after the incident has passed. Anyone can share these experiences using the following resources:
+
+- Center for Student Diversity and Inclusion: csdi@andrew.cmu.edu, (412) 268-2150
+- Ethics Reporting Hotline. Students, faculty, and staff can anonymously file a report by calling 844-587-0793 or visiting cmu.ethicspoint.com.
+
+All reports will be documented and deliberated to determine if there should be any following actions. Regardless of incident type, the university will use all shared experiences to transform our campus climate to be more equitable and just.
+
+## Accommodations for Students with Disabilities
+
+If you have a disability and have an accommodations letter from the Disability Resources office, I encourage you to discuss your accommodations and needs with the instructors as early in the semester as possible. We will work with you to ensure that accommodations are provided as appropriate. If you suspect that you may have a disability and would benefit from accommodations but are not yet registered with the [Office of Disability Resources](https://www.cmu.edu/disability-resources/), we encourage you to contact them at [access@andrew.cmu.edu](mailto:access@andrew.cmu.edu).
+
 
 ## A Note on Self Care
-Please take care of yourself. Do your best to maintain a healthy lifestyle this semester by eating well, exercising, avoiding drugs and alcohol, getting enough sleep and taking some time to relax. This will help you achieve your goals and cope with stress. All of us benefit from support during times of struggle. You are not alone. There are many helpful resources available on campus and an important part of the college experience is learning how to ask for help. Asking for support sooner rather than later is often helpful.
+
+The last few years have been challenging. We are all under a lot of stress and uncertainty at this time. We encourage you to find ways to move regularly, eat well, and reach out to your support system or the instructors if you need to. We can all benefit from support in times of stress, and this semester is no exception. 
 
 If you or anyone you know experiences any academic stress, difficult life events, or feelings like anxiety or depression, we strongly encourage you to seek support. Counseling and Psychological Services (CaPS) is here to help: call 412-268-2922 and visit their website at [http://www.cmu.edu/counseling/](http://www.cmu.edu/counseling/). Consider reaching out to a friend, faculty or family member you trust for help getting connected to the support that can help.
+
+## Food Insecurity
+
+If you are worried about affording food or feeling insecure about food, there are resources on campus that can help. Any undergraduate or graduate student can visit the CMU Pantry and receive food for free. Follow the directions on the [CMU Pantry website](https://www.cmu.edu/student-affairs/resources/cmu-pantry/) to schedule your visit.
