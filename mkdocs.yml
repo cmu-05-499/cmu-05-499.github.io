@@ -60,8 +60,10 @@ nav:
   - Home: index.md
   - Course Overview: overview.md
   - Syllabus: syllabus.md
+  - Homework:
+      - homework/index.md # Dummy home page; remove once we start adding homework below
   - Projects:
-      - projects/index.md # Dummy home page; remove once we start adding homework below
+      - projects/index.md # Dummy home page; remove once we start adding projects below
       #- "Project 1: Hello, NodeBB!":
       #    - projects/P1/index.md
       #    - 1A Build Checkpoint: projects/P1/1_checkpoint.md
