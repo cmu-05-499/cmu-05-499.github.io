@@ -44,23 +44,29 @@ Being able to address team issues in software projects is one of the core learni
 Various readings throughout the semester are available online or through the library; we do not have a single textbook but rather assemble readings from different sources.
 
 ## Assessment
-Evaluation will be based on the following distribution: 84% projects, 16% participation. Project points will be divided into 50% related to the project deliverable and 50% peer assessment. 
+Evaluation will be based on the following distribution: 25% homework, 60% project, 15% participation. Project points will be divided into half related to the project deliverable and half peer assessment. 
+
+**Homework Points Breakdown (tentative)**
+
+| Project | # Days Given | Points | % of homework grade |  % of total grade |
+| --- | --- | --- | --- | --- |
+| 0 | 7 | 50 | 14% | 4%
+| 1 | 13 | 100 | 29% | 7% |
+| 2 | 7  | 100 | 29% | 7% |
+| 3 | 8  | 100 | 29% | 7% |
+|   | **TOTAL**   | 350 | 100% | 25% | 
 
 **Project Points Breakdown (tentative)**
 
 | Project | # Days Given | Points | % of project grade |  % of total grade |
 | --- | --- | --- | --- | --- |
-| 0 | 7 | 35 | 4% | 6% | 3.5%
-| 1 | 13 | 70 | 8% | 7% |
-| 2 | 7  | 105 | 12.5% | 10.5% |
-| 3 | 12  | 70 | 8% | 7% |
-| 4 | 3 | 35 | 4% | 3.5% |
-| 5 | 14 | 105 | 12.5% | 10.5% |
-| 6a | 21 | 105 | 12.5% | 10.5% |
-| 6b | 12 | 105 | 12.5% | 10.5% |
-| 6c | 17 | 140 | 16% | 14% |
-| 7 | 8 | 70 | 8% | 7% |
-|   | **TOTAL**   | 840 | 100% | 84% | 
+| 1 | 12  | 84 | 10% | 6% |
+| 2 | 3 | 42 | 5% | 3% |
+| 3 | 14 | 168 | 20% | 12% |
+| 4 | 21 | 168 | 20% | 12% |
+| 5 | 12 | 168 | 20% | 12% |
+| 6 | 17 | 210 | 25% | 15% |
+|   | **TOTAL**   | 840 | 100% | 60% | 
 
 ## Regrades
 Regrade requests can be submitted via Gradescope. The regrade period is open for one week after grades have been released for a particular assignment.

@@ -11,8 +11,13 @@
   website: https://www.patrickcarrington.com
   photo: pcarring.jpg
 
-#- name: Sophia Witt
-#  role: Teaching Assistant
-#  email: switt@andrew.cmu.edu
-#  website:
-#  photo: sophia.jpeg
+- name: Qiaoqiao Ma
+  role: Teaching Assistant
+  email: qiaoqiam@andrew.cmu.edu
+  photo: qiaoqiaoma.png
+
+- name: Kristen Scotti
+  role: Teaching Assistant
+  email: kscotti@andrew.cmu.edu
+  photo: kristenscotti.jpg
+
