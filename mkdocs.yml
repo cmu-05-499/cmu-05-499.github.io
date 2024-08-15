@@ -62,7 +62,8 @@ nav:
   - Course Overview: overview.md
   - Syllabus: syllabus.md
   - Homework:
-      - homework/index.md # Dummy home page; remove once we start adding homework below
+      - "Homework 1: Accessible Documents and Presentations":
+        - homework/HW1/index.md
   - Projects:
       - projects/index.md # Dummy home page; remove once we start adding projects below
       #- "Project 1: Hello, NodeBB!":
@@ -91,6 +92,6 @@ nav:
       #    - "5B Project Presentations, Final Report, and Reflections": projects/P5/2_projectfinal.md
 
   #- Hall of Fame: hall-of-fame.md
-  #- Canvas: https://canvas.cmu.edu/courses/39244
-  #- Gradescope: https://www.gradescope.com # edit upon gradescope creation
-  #- Slack: https://join.slack.com/t/cmu-17313-s24/signup
+  - Canvas: https://canvas.cmu.edu/courses/42586
+  - Gradescope: https://www.gradescope.com/courses/823456
+  - Slack: https://join.slack.com/t/cmu-05-499-f24/shared_invite/zt-2omf3b8km-~Kwm1fmZzZaoEjJiQYYVkA
