@@ -2,6 +2,7 @@ site_name: "CMU 05-499/899: Celebrating Accessibility"
 
 theme:
   name: material
+  custom_dir: overrides
   logo: assets/images/17313_numberbox.png
   favicon: assets/favicon.ico
   font:
@@ -89,24 +90,6 @@ nav:
       #    - "5A Project and Task Selection": projects/P5/1_projectcheck.md
       #    - "5B Project Presentations, Final Report, and Reflections": projects/P5/2_projectfinal.md
 
-  - Recitations:
-      - recitations/index.md # Dummy home page; remove once we start adding recitations below
-      #- Recitation 1 - Git, GitHub and TypeScript: recitations/reci1-github.md
-      #- Recitation 2 - Team Contract Workshop: recitations/reci2-teamcontract.md
-      #- Recitation 3 - Archaeology: recitations/reci4-archaeology.md
-      #- Recitation 4 - Checkpoint Presentations: recitations/reci4-checkpoint.md
-      #- Recitation 5 - Team Dysfunction: recitations/reci5-team-dysfunction.md
-      #- Recitation 6 - Deployment: recitations/reci6-deployment.md
-      #- Recitation 7 - Large Language Models: recitations/reci7-llms.md
-      #- Recitation 8 - Team Feedback: recitations/reci8-team-feedback.md
-      #- Recitation 9 - Open Source Scavenger Hunt: recitations/reci9-open-source.md
-      # - Recitation 10 - Team Feedback: recitations/reci10-team-feedback.md
-      # - Recitation 7 - Docker and Containerization: recitations/reci7-docker.md
-      # - Recitation 8 - Team Feedback: recitations/reci8-team-feedback.md
-      # - Recitation 9 - Machine Learning: recitations/reci9-ml.md
-      # - Recitation 10 - Open Source Projects: recitations/reci10-open-source.md
-      #- Recitation 10 - Open Source Project and Task Selection Check In: recitations/reci10-p5-checkin.md
-      #- Recitation 11 - Midterm Review: recitations/reci11-midterm-review.md
   #- Hall of Fame: hall-of-fame.md
   #- Canvas: https://canvas.cmu.edu/courses/39244
   #- Gradescope: https://www.gradescope.com # edit upon gradescope creation
