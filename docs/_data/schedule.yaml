@@ -2,7 +2,7 @@
   homework:
     deadline: 'September 3, 2024'
     link: ''
-    name: 'HW0 - Accessible Presentations / Team Formation Skills Survey'
+    name: 'HW1 - Accessible Documents and Presentations / Team Formation Skills Survey'
     numDays: 7
   lecture:
     link: ''
@@ -56,7 +56,7 @@
   homework:
     deadline: 'September 11, 2024'
     link: ''
-    name: 'HW1 - Disability Deep Dive'
+    name: 'HW2 - Disability Deep Dive'
     numDays: 10
   lecture:
     link: ''
@@ -290,7 +290,7 @@
   homework:
     deadline: 'September 24, 2024'
     link: ''
-    name: 'HW2 - Accessibility Evaluation'
+    name: 'HW3 - Accessibility Evaluation'
     numDays: 7
   lecture:
     link: ''
@@ -416,7 +416,7 @@
   homework:
     deadline: 'October 8, 2024'
     link: ''
-    name: 'HW3 - Project Pitches'
+    name: 'P1 - Project Pitches'
     numDays: 8
   lecture:
     link: ''
@@ -560,7 +560,7 @@
   homework:
     deadline: 'October 11, 2024'
     link: ''
-    name: 'HW4 - Team Contracts'
+    name: 'P2 - Team Contracts'
     numDays: 2
   lecture:
     link: ''
@@ -596,7 +596,7 @@
   homework:
     deadline: 'October 24, 2024'
     link: ''
-    name: 'HW5 - Project Specification + Mini-IRB'
+    name: 'P3 - Project Specification + Mini-IRB'
     numDays: 10
   lecture:
     link: ''
@@ -776,7 +776,7 @@
   homework:
     deadline: 'November 14, 2024'
     link: ''
-    name: 'HW6a - Project Milestone 1'
+    name: 'P4 - Project Milestone 1'
     numDays: 15
   lecture:
     link: ''
@@ -1046,7 +1046,7 @@
   homework:
     deadline: 'November 26, 2024'
     link: ''
-    name: 'HW6b - Project Milestone 2'
+    name: 'P5 - Project Milestone 2'
     numDays: 8
   lecture:
     link: ''
@@ -1100,7 +1100,7 @@
   homework:
     deadline: 'November 27, 2024'
     link: ''
-    name: 'HW7 - Celebrating Accessibility Essay'
+    name: 'HW4 - Celebrating Accessibility Essay'
     numDays: 7
   lecture:
     link: ''
@@ -1190,7 +1190,7 @@
   homework:
     deadline: 'December 13, 2024'
     link: ''
-    name: 'HW6C - Project Presentations + Report'
+    name: 'P6 - Project Presentations + Report'
     numDays: 17
   lecture:
     link: ''
