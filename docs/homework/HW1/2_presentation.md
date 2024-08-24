@@ -2,7 +2,7 @@
 
 ## Deliverables
 
-**Accessible Google Slides** - 25 points - due Tuesday, September 3, 11:59pm ET
+**Accessible Google Slides** - 50 points - due Tuesday, September 3, 11:59pm ET
 
 ## Background
 
@@ -32,7 +32,7 @@ Some other guides include:
     1. [Verbal Communication](verbal-communication.pptx)
 
 !!! warning
-    These presentations have been sourced on the Internet. Some are short, some are long. Some contain technical content; some appear to be jokes. Whichever one you pick, as you edit them for accessibility, be careful to preserve your understanding of the authors' original intent. Whenever possible, do not edit for their message.
+    These presentations have been sourced on the Internet. Some are short, some are long. Some contain technical content; some appear to be jokes. Whichever one you pick, as you edit them for accessibility, be careful to preserve your understanding of the authors' original intent. Whenever possible, do not change their message.
 
 
 ## Instructions
@@ -76,13 +76,23 @@ Some other guides include:
         1. I used terminology understandable to non-native speakers (e.g. avoid slang).
         1. I spoke at a moderate pace (around 100-150 words per minute).
         1. I provided a voice narration for embedded math equations ([Math ML](https://www.w3.org/Math/))
+1. Record yourself making the presentation.
+    1. Open the slides in the latest desktop version of Microsoft PowerPoint.
+    1. Choose the Record menu. 
+    1. If you feel comfortable doing so, choose the Cameo option to insert a recording of you narrating the slides on the lower right hand corner of the slide deck.
+    1. Choose the Record button in the top right of the PowerPoint UI. 
+    1. Once you have finished recording, choose File/Export... from the menu and export your video as an MP4.
+    1. Upload the video to YouTube; please make sure it's set to private. 
 
-## Submission
+## Deliverables
 
-Copy the slide deck into your Google Drive. 
+There are two deliverables for this homework section. 
 
-1. Open the file in Google Slides.
-1. Choose File/Share/Sharing with Others from the menu.
-1. Change the Sharing permissions from General Access Restricted to General Access Carnegie Mellon University.
-1. Press the Copy link button and submit that link to Gradescope.
-
+1. Presentation
+    1. Copy the slide deck into your Google Drive. 
+    1. Open the file in Google Slides.
+    1. Choose File/Share/Sharing with Others from the menu.
+    1. Change the Sharing permissions from General Access Restricted to General Access Carnegie Mellon University.
+    1. Press the Copy link button and submit that link to Gradescope.
+1. Recorded Narration
+    1. Submit the private link to your uploaded YouTube video to Gradescope.

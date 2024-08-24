@@ -9,8 +9,8 @@ theme:
     text: Roboto
   palette:
     - scheme: default
-      primary: red
-      accent: red
+      primary: brown
+      accent: brown
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
