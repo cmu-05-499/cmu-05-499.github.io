@@ -70,12 +70,21 @@ Some other guides include:
         1. I ensured there is sufficient space between lines of text.
         1. I provided [visual and/or emotional descriptions](https://www.w3.org/WAI/media/av/description/) to help interpret music/sound.
         1. I embedded visual, non-linguistic support for vocabulary clarification (pictures, videos, etc.)
-    1. Recorded Narration               
+    1. Recorded Audio               
         1. I spoke every word that appears on the slide.
         1. I spoke loudly and clearly.
         1. I used terminology understandable to non-native speakers (e.g. avoid slang).
         1. I spoke at a moderate pace (around 100-150 words per minute).
         1. I provided a voice narration for embedded math equations ([Math ML](https://www.w3.org/Math/))
+    1. Recorded Presentation
+        1. I verbally described all important images and charts.
+        1. I verbally described all animations.
+        1. I paused between slides.
+        1. If I skipped a slide or an element on a slide, I said so out loud.
+        1. I referred to the slide numbers in my presentation.
+        1. To enable lip reading, I faced the audience (i.e. camera) and adjusted it to ensure my lips are clearly visible.
+        1. I minimized my use of the mouse pointer.
+        1. Whenever I used the mouse pointer in my talk, I described the action verbally.
 1. Record yourself making the presentation.
     1. Open the slides in the latest desktop version of Microsoft PowerPoint.
     1. Choose the Record menu. 
