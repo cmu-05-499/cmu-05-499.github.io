@@ -13,9 +13,9 @@ Everyone has various senses and abilities, many of whom do not match your own. W
 
 This is an **individual assignment**. There are two (2) deliverables for this homework.
 
-A) [**Create an Accessible PDF**](1_pdf) - 25 points
+A) [**Create an Accessible PDF**](1_pdf.md) - 25 points
 
-B) [**Create an Accessible Presentation**](2_presentation) - 25 points 
+B) [**Create an Accessible Presentation**](2_presentation.md) - 25 points 
 
 ## Deadline
 

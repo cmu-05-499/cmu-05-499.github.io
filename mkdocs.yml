@@ -61,9 +61,12 @@ nav:
   - Home: index.md
   - Course Overview: overview.md
   - Syllabus: syllabus.md
-  - Homework:
-      - "Homework 1: Accessible Documents and Presentations":
-        - homework/HW1/index.md
+  - Homework: 
+      - 'Homework 1 Accessible Documents': 
+          - 'homework/HW1/index.md' 
+          - Parts: 
+              - 'homework/HW1/1_pdf.md'
+              - 'homework/HW1/2_presentation.md'
   - Projects:
       - projects/index.md # Dummy home page; remove once we start adding projects below
       #- "Project 1: Hello, NodeBB!":
