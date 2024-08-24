@@ -84,9 +84,9 @@ Some other guides include:
     1. Once you have finished recording, choose File/Export... from the menu and export your video as an MP4.
     1. Upload the video to YouTube; please make sure it's set to private. 
 
-## Deliverables
+## Submission
 
-There are two deliverables for this homework section. 
+There are two items to submit for this homework part. 
 
 1. Presentation
     1. Copy the slide deck into your Google Drive. 
