@@ -91,4 +91,4 @@ The goal of this assignment is to create an accessible PDF from an inaccessible 
 
 
 
-## Grading
+## Submission
