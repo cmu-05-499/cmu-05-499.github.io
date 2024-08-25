@@ -25,6 +25,7 @@ NOTE: If you have been provided with a license but cannot access the software af
 
 2. The goal of this assignment is to create an accessible PDF from an inaccessible one. We will list instructions here, but they are pulled from a [larger document](https://chi2021.acm.org/for-authors/presenting/papers/guide-to-an-accessible-submission)helpfully put together for the CHI 2021 conference.
 
+## Instructions
 
 ### Check for Accessibility
 
