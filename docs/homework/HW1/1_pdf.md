@@ -7,7 +7,8 @@
 ## Getting Started
 
 1. You will need to install a copy of Adobe Acrobat Pro DC on your own computer to do this assignment. Follow these instructions to get a free copy of Adobe Acrobat for use in this class.
-Adobe Creative Cloud Install Instructions
+
+**Adobe Creative Cloud Install Instructions**
 1. Go to the Creative Cloud website (https://creativecloud.adobe.com) and click Sign In.
 2. Sign in using the Sign-in Instructions below.
 3. Click Install Creative Cloud App.
@@ -17,7 +18,7 @@ Adobe Creative Cloud Install Instructions
 7. Once the application opens, click the Install button for each app that you want to install.
 NOTE: If you have been provided with a license but cannot access the software after installing or are on a trial, log out of the Acrobat program and log back in using the Sign-in Instructions below to reset the Adobe License on your computer.
 
-Sign-in Instructions
+**Sign-in Instructions**
 1. Enter your Andrew email address when prompted.
 2. Click Continue and then, if prompted, click Company or School Account.
 3. Enter your Andrew userID and password at the CMU Web Login screen.
