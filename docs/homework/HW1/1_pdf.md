@@ -29,6 +29,8 @@ The goal of this assignment is to create an accessible PDF from an inaccessible 
 
 ## Instructions
 
+Download the [assignment file](Syllabus.pdf) and open using Adobe Acrobat Pro
+
 ### Check for Accessibility
 
 1. Using the tools at the left side of the application find the **Prepare for Accessibility** Tool
