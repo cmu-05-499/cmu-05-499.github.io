@@ -92,3 +92,5 @@ The goal of this assignment is to create an accessible PDF from an inaccessible 
 
 
 ## Submission
+
+Submit the final PDF to Gradescope.
