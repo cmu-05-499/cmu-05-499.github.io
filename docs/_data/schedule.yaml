@@ -23,7 +23,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: 'lectures/01-introduction.pdf'
+    link: 'lectures/01-Introduction.pdf'
     name: 'Course Introduction'
   reading:
     link: ''
