@@ -3,7 +3,7 @@ site_name: "CMU 05-499/899: Celebrating Accessibility"
 theme:
   name: material
   custom_dir: overrides
-  logo: assets/images/17313_numberbox.png
+  logo: assets/images/05499_numberbox.png
   favicon: assets/favicon.ico
   font:
     text: Roboto
