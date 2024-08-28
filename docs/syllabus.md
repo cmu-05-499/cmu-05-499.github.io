@@ -51,7 +51,7 @@ Evaluation will be based on the following distribution: 25% homework, 60% projec
 | Project | # Days Given | Points | % of homework grade |  % of total grade |
 | --- | --- | --- | --- | --- |
 | HW1 | 7 | 75 | 21% | 5%
-| HW2 | 13 | 100 | 29% | 7% |
+| HW2 | 8 | 100 | 29% | 7% |
 | HW3 | 7  | 100 | 29% | 7% |
 | HW4 | 8  | 75 | 21% | 5% |
 |   | **TOTAL**   | 350 | 100% | 25% | 

@@ -54,10 +54,10 @@
 
 - date: Thu Aug 29
   homework:
-    deadline: 'September 11, 2024'
+    deadline: ''
     link: ''
-    name: 'HW2 - Disability Deep Dive'
-    numDays: 10
+    name: ''
+    numDays: 0
   lecture:
     link: ''
     name: 'Disabilities Part 1'
@@ -108,10 +108,10 @@
 
 - date: Tue Sep 03
   homework:
-    deadline: ''
+    deadline: 'September 11, 2024'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW2 - Disability Deep Dive'
+    numDays: 7
   lecture:
     link: ''
     name: 'Disabilities Part 2 + Team Formation'
