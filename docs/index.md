@@ -52,42 +52,14 @@ hide:
 </div>
 
 <div class="card"> 
-    <div class="header">
-        Recitation
-    </div>
-    <div class="content">
-        {% if this_week.recitation %}
-            <div class="recitation-name">
-                {{ this_week.recitation.name }}
-            </div>
-
-            {% if this_week.recitation.slides != "" %}
-            <a class="label label-aqua" href="{{this_week.recitation.slides}}" target="_blank">
-                <span class="material-symbols-outlined">slideshow</span>Slides
-            </a>
-            {% endif %}
-
-            {% if this_week.recitation.handout != "" %}
-            <a class="label label-aqua" href="{{this_week.recitation.handout}}">
-                <span class="material-symbols-outlined">description</span>Handout
-            </a>
-            {% endif %}
-
-            {% if this_week.recitation.quiz != "" %}
-            <a class="label label-aqua" href="{{this_week.recitation.quiz}}" target="_blank">
-                <span class="material-symbols-outlined">equalizer</span>Quiz
-            </a>
-            {% endif %}
-        {% else %}
-            None!
-        {% endif %}
-    </div>
-
+ 
     <div class="header">
         Office Hours
     </div>
     <div class="content">
-        Held on the third floor lobby of NSH. See <a href="#class-calendar">class calendar</a> below for exact times!
+        Qiaoqiao's office hours are held on the first floor of TCS. <p> 
+        Kristen's office hours are held in her office WEH 4416 in the Engineering Library. <p>
+        See <a href="#class-calendar">class calendar</a> below for exact times!
     </div>
 
 </div>
@@ -111,7 +83,7 @@ hide:
                 {% if project.deadline != "" %}
                 <div class="homework-date">
                     <span class="material-symbols-outlined">calendar_month</span>
-                    {{ project.deadline }}
+                    Due {{ project.deadline }}
                 </div>
                 {% endif %}
 
