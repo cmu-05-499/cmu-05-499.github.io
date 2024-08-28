@@ -59,7 +59,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'lectures/02-disability.pdf'
     name: 'Disabilities Part 1'
   reading:
     link: ''
