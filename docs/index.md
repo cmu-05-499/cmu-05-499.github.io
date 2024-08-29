@@ -59,6 +59,7 @@ hide:
     <div class="content">
         Qiaoqiao's office hours are held on the first floor of TCS. <p> 
         Kristen's office hours are held in her office WEH 4416 in the Engineering Library. <p>
+        Patrick's office hours are held in his office 4SC 201.
         See <a href="#class-calendar">class calendar</a> below for exact times!
     </div>
 
