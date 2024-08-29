@@ -143,10 +143,8 @@ hide:
             </span></td>
 
             <td><span class="schedule-reading">
-                {% if schedule_day.reading.name != "" %}
-                    <a class="label label-blue" href="{{schedule_day.reading.link}}" target="_blank">
-                        {{schedule_day.reading.name}}
-                    </a>
+                {% if schedule_day.lecture.name != "" %}
+                    Readings can be found in Announcements on <a href = "https://canvas.cmu.edu/courses/42586">Canvas</a>.
                 {% endif %}
             </span></td>
 
