@@ -36,7 +36,7 @@ Write an essay with information answering the following questions. Each question
 1. Identify three advocacy organizations associated with this disability. For each organization, write down one sentence about how this organization advocates for the disability.
 1. Identify three assistive technologies used by people with this disability and explain how each helps them adapt to the world around them.
 1. What are three positive adjectives that could be said about people with this disability (by people with this disability)?
-1. What are three negative adjectives that could be said about people with this disability (by people with this disability)? 
+1. What are three negative adjectives that could be said about people with this disability (by people with this disability)? For example, children with visual acuity loss are often teased by other children with the label, "four eyes." Don't go too dark here. We don't want to hear about terribly offensive slurs.
 1. How are people with disability treated in our culture? Choose any community you like for defining the culture (e.g., USA, CMU, Pennsylvania, the software industry, sports, religions, etc.)
 1. Why did you pick this disability for the homework assignment?
 
