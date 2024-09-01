@@ -1,10 +1,10 @@
 lectures:
-- date: Tue Aug 27
-  link: lectures/01-introduction.pdf
-  name: Course Introduction
-- date: Thu Aug 29
-  link: lectures/02-disability.pdf
-  name: Disabilities Part 1
+- date: Tue Sep 03
+  link: ''
+  name: Disabilities Part 2 + Team Formation
+- date: Thu Sep 05
+  link: ''
+  name: History of Disability Policy Part 1
 
 projects:
 - date: Mon Aug 26
@@ -12,6 +12,12 @@ projects:
   end_date: 2024-09-04 00:00:00
   link: ''
   name: HW1 - Accessible Documents and Presentations / Team Formation Skills Survey
+  numDays: 7
+- date: Tue Sep 03
+  deadline: September 11, 2024
+  end_date: 2024-09-12 00:00:00
+  link: ''
+  name: HW2 - Disability Deep Dive
   numDays: 7
 
 recitation: null
