@@ -113,7 +113,7 @@
     name: 'HW2 - Disability Deep Dive'
     numDays: 7
   lecture:
-    link: ''
+    link: 'lectures/03-models-of-disability.pdf'
     name: 'Disabilities Part 2 + Team Formation'
   reading:
     link: ''
