@@ -19,4 +19,4 @@ B) [**Create an Accessible Presentation**](2_presentation.md) - 50 points
 
 ## Deadline
 
-This homework is due Tuesday, September 3, 11:59pm ET.
+This homework is due ~~Tuesday, September 3~~ Thursday, September 5, 11:59pm ET.

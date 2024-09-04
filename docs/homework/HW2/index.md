@@ -14,7 +14,9 @@ This is an **individual assignment** worth 100 points.
 
 ## Getting Started
 
-In class on Tuesday, September 3, you will choose a disability for this homework assignment. If you miss class, please contact the instructors ASAP to choose a disability.
+In class on Tuesday, September 3, you will choose a disability _category_ for this homework assignment. The available categories are vision, hearing, mobility, speech, cognition, and chronic illness. Note, these are classes of disabilities, not specific disabilities. For example, the vision category includes retinosis pigmentosa, a specific disability with its own unique form of progressive visual impairment. From within your chosen disability class, you may pick any specific disability to write about for your essay. 
+
+If you miss class, please contact the instructors ASAP to choose a disability category.
 
 ## Instructions
 
@@ -25,7 +27,7 @@ Write an essay with information answering the following questions. Each question
     You must cite all sources in [APA style](https://pitt.libguides.com/citationhelp/apa7). At the end of the writeup, add a References section with all sources you cited, sorted alphabetically by last name of the first author.
 
 
-1. Name of the disability
+1. Name of the specific disability.
 1. What is the medical definition of this disability?
 1. What is the definition of this disability from the perspective of the social model of disability? i.e., What barriers in the world are emblematic of this disability?
 1. What functional impairments are common with this disability?
