@@ -27,6 +27,8 @@ NOTE: If you have been provided with a license but cannot access the software af
 
 **If you have trouble logging in, please submit a help ticket to it-help@andrew.cmu.edu**
 
+## Goal
+
 The goal of this assignment is to create an accessible PDF from an inaccessible one. We will list instructions here, but they are pulled from a [larger document](https://chi2021.acm.org/for-authors/presenting/papers/guide-to-an-accessible-submission) helpfully put together for the CHI 2021 conference.
 
 ## Instructions
