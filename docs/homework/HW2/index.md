@@ -38,7 +38,7 @@ Write an essay with information answering the following questions. Each question
 1. Identify three advocacy organizations associated with this disability. For each organization, write down one sentence about how this organization advocates for the disability.
 1. Identify three assistive technologies used by people with this disability and explain how each helps them adapt to the world around them.
 1. What are three current ways to label people with this disability (preferrably used by people with this disability)?
-1. How are people with disability treated in our culture? Choose any community you like for defining the culture (e.g., USA, CMU, Pennsylvania, the software industry, sports, religions, etc.)
+1. How are people with this disability treated in our culture? Choose any community you like for defining the culture (e.g., USA, CMU, Pennsylvania, the software industry, sports, religions, etc.)
 1. Why did you pick this disability for the homework assignment?
 
 # Deliverables
