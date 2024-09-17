@@ -17,7 +17,7 @@ This is an **individual assignment** worth 100 points.
 
 The purpose of this web page is to advertise accessibility and provide some hints for people who want to get started. You’ll make the basic web page accessible, make its embedded video accessible, etc. The page is a bit ridiculous because of how many different kinds of content it contains all on one page, but is formed of fairly common components.
 
-The base web page (HTML, CSS, and Javascript) are located here \<link\>.
+The base web page (HTML, CSS, and Javascript) files can [be downloaded here](homework3-base-webpage.zip).
 
 The final state of the web page will look visually similar, but it will be much more accessible\!  Your final web page might look a bit different. Please feel free to deviate from the style here if you need to do so for better accessibility or usability.
 
