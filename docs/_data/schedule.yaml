@@ -293,7 +293,7 @@
     name: 'HW3 - Accessibility Evaluation'
     numDays: 7
   lecture:
-    link: ''
+    link: 'lectures/07-assistive-technology.pdf'
     name: 'Assistive Technologies Part 2'
   reading:
     link: ''
