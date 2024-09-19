@@ -329,7 +329,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'lectures/08-ai-assistive-technology.pdf'
     name: 'AI-Based Assistive Technologies'
   reading:
     link: ''
