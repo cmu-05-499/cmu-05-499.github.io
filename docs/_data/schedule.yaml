@@ -64,6 +64,11 @@
   reading:
     link: ''
     name: ''
+  readings:
+    - { link: 'https://canvas.cmu.edu/courses/42586/files/11475594?wrap=1', 
+        name: 'What do we mean by "Accessibility" research?' } 
+    - { link: 'https://canvas.cmu.edu/courses/42586/files/11475605?wrap=1',
+        name: 'The Harm in Conflating Aging with Accessibility' }
   recitation:
     handout: ''
     name: ''
@@ -98,8 +103,6 @@
     link: ''
     name: ''
   reading:
-    link: ''
-    name: ''
   recitation:
     handout: ''
     name: ''
@@ -151,9 +154,9 @@
   lecture:
     link: 'lectures/04-history-of-disability.pdf'
     name: 'History of Disability Policy Part 1'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: 'https://dl.acm.org/doi/10.1145/1878803.1878807', name: 'Mankoff et al. 2010 - Disability studies as a source of critical inquiry for the field of assistive technology' }
+    - { link: 'https://www.youtube.com/watch?v=_pEFsz-84eg', name: 'Heumann nature: The life and legacy of disability rights activist Judy Heumann' }
   recitation:
     handout: ''
     name: ''
@@ -205,9 +208,12 @@
   lecture:
     link: 'lectures/05-history-of-disability.pdf'
     name: 'History of Disability Policy Part 2'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: 'https://doi.org/10.1145/3234695.3236348', name: 'Cynthia L. Bennett, Erin Brady, and Stacy M. Branham. 2018. Interdependence as a Frame for Assistive Technology Research and Design Download Interdependence as a Frame for Assistive Technology Research and Design. In Proceedings of the 20th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2018). Association for Computing Machinery, New York, NY, USA, 161-173.' }
+    - { link: 'https://doi.org/10.1080/23251042.2018.1424497', name: 'Jampel, C. (2018). Intersections of disability justice, racial justice and environmental justice Download Intersections of disability justice, racial justice and environmental justice. Environmental Sociology, 4(1), 122-135.' }
+    - { link: 'https://www.youtube.com/watch?v=OFS8SpwioZ4', name: 'Excerpts from the movie "Crip Camp." 
+                                                                    Protest movement to start disability rights: 39:03 - 50:02
+                                                                    Judy Heumann schooling government officials: 1:29:50 - 1:36:07' }
   recitation:
     handout: ''
     name: ''
@@ -241,9 +247,9 @@
   lecture:
     link: 'lectures/06-assistive-technology.pdf'
     name: 'Assistive Technologies Part 1'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: 'https://www.njcounciloftheblind.org/brochures/history_of_white_cane.htm#:~:text=James%20Biggs%20of%20Bristol%20claimed,himself%20more%20visible%20to%20motorists', name: 'History of the white cane' }
+    - { link: 'https://dl.acm.org/doi/10.1145/274497.274526', name: 'User Interface of a Homepage Reader' }
   recitation:
     handout: ''
     name: ''
@@ -295,9 +301,10 @@
   lecture:
     link: 'lectures/07-assistive-technology.pdf'
     name: 'Assistive Technologies Part 2'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: 'https://doi.org/10.1145/2998181.2998215', name: 'Alexander Fiannaca, Ann Paradiso, Mira Shah, and Meredith Ringel Morris. 2017. AACrobat: Using Mobile Devices to Lower Communication Barriers and Provide Autonomy with Gaze-Based AAC. In Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW 17). Association for Computing Machinery, New York, NY, USA, 683-695' }
+    - { link: 'https://doi.org/10.1145/3597638.3614507', name: 'Nina Tran, Richard E. Ladner, and Danielle Bragg. 2023. U.S. Deaf Community Perspectives on Automatic Sign Language Translation. In Proceedings of the 25th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 23). Association for Computing Machinery, New York, NY, USA, Article 76, 1-7.' }
+    - { link: 'https://youtu.be/hPJ-xmxClO4?si=QFEeUyqtTqJKUDD7', name: 'Highlights of USA/NZ wheelchair rugby match Tokyo 2020 Paralympics' }
   recitation:
     handout: ''
     name: ''
@@ -385,9 +392,11 @@
   lecture:
     link: ''
     name: 'Software Accessibility Guidelines and Testing'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: 'https://uxplanet.org/a-primer-to-web-accessibility-for-designers-2c548448c612', name: 'A Primer to Web Accessibility for Designers | by Nicholas Kramer' }
+    - { link: 'https://www.w3.org/TR/WCAG22/', name: 'WCAG 2.2 Standard' }
+    - { link: 'https://www.w3.org/TR/wai-aria/', name: 'WAI-ARIA Standard' }
+    - { link: 'https://www.w3.org/TR/ATAG20/', name: 'Authoring Tool Accessibility Guidelines (ATAG) 2.0 Standard'}
   recitation:
     handout: ''
     name: ''
