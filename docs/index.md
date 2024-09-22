@@ -34,11 +34,15 @@ hide:
                 </a>
                 {% endif %}
 
-                {% if lecture.reading %}
-                    <a class="label label-blue" href="{{lecture.reading.link}}" target="_blank">
-                        <span class="material-symbols-outlined">link</span>
-                        {{lecture.reading.name}}
-                    </a>
+                {% if lecture.readings %}
+                    {% for reading in lecture.readings %}
+                        {% if reading.name != "" %}
+                            <a class="label label-blue" href="{{reading.link}}" target="_blank">
+                            <span class="material-symbols-outlined">link</span>
+                            {{reading.name}}
+                            </a><br/>
+                        {% endif %}
+                    {% endfor %}
                 {% endif %}
                 {% if not loop.last %}
                 <hr/>
@@ -126,7 +130,7 @@ hide:
     <thead>
         <th><b>Date</b></th>
         <th><b>Lecture</b></th>
-        <th><b>Reading</b></th>
+        <th><b>Readings</b></th>
         <th><b>Project Deadline</b></th>
     </thead>
     <tbody>
