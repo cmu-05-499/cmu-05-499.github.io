@@ -430,9 +430,9 @@
   lecture:
     link: ''
     name: 'Design Methods'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: 'https://ieeexplore.ieee.org/document/8818889', name: 'From GenderMag to InclusiveMag: An Inclusive Design Meta-Method' }
+    - { link: 'https://dl.acm.org/doi/pdf/10.1145/3148051', name: 'Ability Based Design Communications Article' }
   recitation:
     handout: ''
     name: ''
@@ -484,9 +484,10 @@
   lecture:
     link: ''
     name: 'IRB-Supported Research'
-  reading:
-    link: ''
-    name: ''
+  readings:
+    - { link: 'https://www.hhs.gov/ohrp/sites/default/files/the-belmont-report-508c_FINAL.pdf', name: 'The 1979 Belmont Report' }
+    - { link: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3272525/', name: 'Institutional review board (IRB) and ethical issues in clinical research'}
+    - { link: 'https://www.youtube.com/watch?v=vuMt8b4UrcI', name: 'The Milgram Experiement: Obedience to Authority'}
   recitation:
     handout: ''
     name: ''
