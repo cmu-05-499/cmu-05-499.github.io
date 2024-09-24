@@ -1,6 +1,6 @@
 lectures:
 - date: Tue Sep 24
-  link: ''
+  link: lectures/09-wcag.pdf
   name: Software Accessibility Guidelines and Testing
   readings:
   - link: https://uxplanet.org/a-primer-to-web-accessibility-for-designers-2c548448c612
