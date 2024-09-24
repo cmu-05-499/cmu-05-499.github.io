@@ -846,10 +846,10 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Guest Speaker'
-  reading:
-    link: ''
-    name: ''
+    name: 'Guest Speaker: Prof. Varsha Koushik, Colorado College'
+  readings:
+    - { link: 'https://canvas.cmu.edu/courses/42586/files?preview=11631533', name: 'Towards augmented reality coaching for daily routines: Participatory design with individuals with cognitive disabilities and their caregivers' }
+    - { link: 'https://doi.org/10.1145/3544548.3581204', name: 'Keke Wu, Michelle Ho Tran, Emma Petersen, Varsha Koushik, and Danielle Albers Szafir. 2023. Data, Data, Everywhere: Uncovering Everyday Data Experiences for People with Intellectual and Developmental Disabilities. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023). Association for Computing Machinery, New York, NY, USA, Article 804, 1-17.' }
   recitation:
     handout: ''
     name: ''
