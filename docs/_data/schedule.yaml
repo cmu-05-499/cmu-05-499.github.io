@@ -573,7 +573,7 @@
     deadline: 'October 11, 2024'
     link: ''
     name: 'P2 - Team Contracts'
-    numDays: 2
+    numDays: 3
   lecture:
     link: ''
     name: 'Project Pitches'
@@ -612,10 +612,10 @@
     numDays: 10
   lecture:
     link: ''
-    name: 'Responsible AI + Data Equity'
-  readings:
-    - { link: 'https://dl.acm.org/doi/full/10.1145/3544548.3581480', name: 'Counterventions: a reparative reflection on interventionist HCI' }
-    - { link: 'https://dl.acm.org/doi/10.1145/3290607.3310433', name: 'A Mulching Proposal' }
+    name: 'Team Norming'
+  reading:
+    link: ''
+    name: ''
   recitation:
     handout: ''
     name: ''
@@ -882,10 +882,10 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Disability and Creative Digital Arts'
-  reading:
-    link: ''
-    name: ''
+    name: 'Responsible AI + Data Equity'
+  readings:
+    - { link: 'https://dl.acm.org/doi/full/10.1145/3544548.3581480', name: 'Counterventions: a reparative reflection on interventionist HCI' }
+    - { link: 'https://dl.acm.org/doi/10.1145/3290607.3310433', name: 'A Mulching Proposal' }
   recitation:
     handout: ''
     name: ''
@@ -1152,7 +1152,7 @@
     numDays: 0
   lecture:
     link: ''
-    name: 'Non-Work Activities (e.g. Cooking, exercise, dating)'
+    name: 'Non-Work Activities (e.g. Cooking, exercise, dating, creative arts)'
   reading:
     link: ''
     name: ''
