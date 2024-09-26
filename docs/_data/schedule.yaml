@@ -428,7 +428,7 @@
     name: 'P1 - Project Pitches'
     numDays: 8
   lecture:
-    link: ''
+    link: 'lectures/10-design.pdf'
     name: 'Design Methods'
   readings:
     - { link: 'https://ieeexplore.ieee.org/document/8818889', name: 'From GenderMag to InclusiveMag: An Inclusive Design Meta-Method' }
