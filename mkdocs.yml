@@ -72,7 +72,10 @@ nav:
       - 'Homework 3 Accessibility Evaluation':
           - 'homework/HW3/index.md'
   - Projects:
-      - projects/P0/index.md # Dummy home page; remove once we start adding projects below
+      - 'Project Overview':
+          - projects/P0/index.md # Dummy home page; remove once we start adding projects below
+      - 'Project Pitches':
+          - projects/P1/index.md
       #- "Project 1: Hello, NodeBB!":
       #    - projects/P1/index.md
       #    - 1A Build Checkpoint: projects/P1/1_checkpoint.md

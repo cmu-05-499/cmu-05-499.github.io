@@ -1,31 +1,46 @@
-# Project 1: Hello, NodeBB!
+# Project 1: Project Pitches
 
 ## Learning Goals
 
-- Familiarize yourself with an existing software project
-- Download, install and run an existing software project
-- Onboard on development tools and technologies
-- Learn Git Flow and GitHub to support future collaborative development
-- Run local analysis tools and use the output to evaluate a codebase
+- Identify the partner organizations you would like to do a project with
+- Brainstorm a project idea and present it to the class
 
 ## Project Context
 
-Welcome to the 17-313 development team! To get started, you will be going through our onboarding process to familiarize yourself with both the course and the project you will be working on. Eventually, you will be tasked with designing and developing new features, but the first step is to download, run, explore, and evaluate the existing software product.
+Welcome to the Celebrating Accessibility Project portion of the course. Until the end of the semester, you will work with a partner organization to design, develop, and evaluate a project. You can do two kinds of projects: an accessibility evaluation and an application solution. The exact project and its goals will emerge from a negotiation with your team and your partner organization. 
 
-This semester, we will be building upon NodeBB, an open-source community forum software project that was started in 2014. You can learn more about this project from the original development team's [website](https://nodebb.org/).
+## Project Pitch
 
-For your own development, you will be forking your own repository off of a class-specific fork of NodeBB, which you can find at [https://github.com/CMU-313/NodeBB](https://github.com/CMU-313/NodeBB).
+To give you practice identifying promising project ideas, you will create a project pitch and present it in class. A project pitch is a formal 2-minute presentation in which you will promote an idea you have for a project with your top-ranked partner organization. It should explain the project along with your skill set to the class and tell them why they should want to work with you to deliver this product to the partner organization. 
 
-Our fork contains some tweaks to make the project easier to modify and debug. This will also allow you to create issues and pull requests that are visible to the instructors, which will be the primary way of submitting code deliverables for this project.
+!!! note 
+    You will develop this pitch without doing any user research or discussing the ideas with the partner organization. This is an anomaly for human-centered design. We are allowing this to give you an opportunity to practice pitching ideas before you engage with the partner organization. In addition, this will help us identify the partner organization you are passionate to work with.
+
+You will have a budget of 1 slide (without animation) to be shown on screen as you give your pitch to the class. Your pitch slide must include:
+
+1. Project title
+1. Problem being solved
+1. Your solution
+
+You may include anything else you would like on the slide. However, be sure to make the slide and your presentation accessible (as we taught you in [HW1](../../homework/HW1/index.md)). As usual, your presentation will be captioned live. 
+
+Turn in your pitch slide on Gradescope as a link to Google Slides. Be sure the permissions allow the instructors to access it. We will be copying the contents into a single slide deck for use during the class session. If we cannot copy your slides, we will notify you by DM on Slack the evening prior. You must fix the permissions or you will receive 0 points for the slide portion of the project.
+
+## Pitch Presentation
+
+Your presentation may only be 2 minutes long. There will be no questions asked. 
+
+Pitches will be presented in alphabetical order by the student's last name, starting with 'A'.
+
+!!! important
+    If you cannot be at class in-person on Tuesday, October 8, with prior instructor permission, you may DM the instructors a pre-recorded 2-minute presentation (using your pitch slide as the background image) of your pitch as a private YouTube video link. Pre-recorded presentations are due Monday, October 7, 11:59pm. If you cannot be sure about your attendance, it's best to pre-record your presentation and send it to us just in case. 
 
 ## Deliverables and Deadlines
-This is an **individual assignment**. There are four (4) deliverables and two (2) deadlines for this homework.
 
-A) [**Build Checkpoint**](/projects/P1/1_checkpoint) - 5 points - due Friday, Januaray 19th, 11:59pm
+This is an **individual assignment** with (3) deliverables. This is worth 10% of your project grade.
 
-B) [**Starter Task**](/projects/P1/2_translation) - 95 points - due Thursday, January 25th, 11:59PM
+A) **Pitch Slide** - 24 points - due Monday, October 7, 12:00pm
 
-- GitHub Issue (20 pts)
-- TypeScript Translation or Test Completion (10 pts)
-- GitHub Pull Request (25 pts)
-- Gradescope Written Assignment (40 pts)
+B) **Pitch Presentation** - 50 points - presented live in class on Tuesday, October 8, 11:00am-12:20pm. 
+
+C) **Organization Ranking** - 10 points - fill out this [survey](https://cmu.ca1.qualtrics.com/jfe/form/SV_8jI4hAHsS8QjxYO) by Wednesday, October 9, 12:00pm to express your preference for partner organizations. If you fill this survey out multiple times, we will take the latest submission as your final response.

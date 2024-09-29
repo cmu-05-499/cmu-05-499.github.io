@@ -27,7 +27,7 @@ The project will proceed in six stages.
 1. Project Report and Presentation
 
 !!! note 
-The first 3 stages are the same for all kinds of projects.
+    The first 3 stages are the same for all kinds of projects.
 
 
 ### Project Pitches
@@ -43,7 +43,7 @@ Once you have chosen your team members, you will come together to discuss one an
 Before your team begins work, you must first determine what you want to do. You will schedule an initial project meeting with the partner organization to identify and negotiate requirements for your accessibility evaluation/design improvement, or accessibility solution project. You will also agree on project deliverables and their format. Once completed, you will come together as a detail to document the requirements in the form of user stories, a UI mockup, a declaration of your technology stack, and a detailed project timeline. In addition, you will create a website for your project to host your milestone deliverables for the partner organization to follow your progress. Finally, you will fill out a simplified IRB application which we will evaluate to help you manage the human subjects ethical considerations of your intended project.
 
 !!! note 
-At every stage of this project and prior to any meeting with your partner organization, you must post any project updates on your project website. All posted content must be made fully accessible as you learned how to do in HW1 and HW3. 
+    At every stage of this project and prior to any meeting with your partner organization, you must post any project updates on your project website. All posted content must be made fully accessible as you learned how to do in HW1 and HW3. 
 
 ## Accessibility Evaluation Projects
 
