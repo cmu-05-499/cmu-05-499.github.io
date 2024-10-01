@@ -482,7 +482,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'lectures/11-irb-supported-research.pdf'
     name: 'IRB-Supported Research'
   readings:
     - { link: 'https://www.hhs.gov/ohrp/sites/default/files/the-belmont-report-508c_FINAL.pdf', name: 'The 1979 Belmont Report' }
