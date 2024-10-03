@@ -519,7 +519,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'lectures/12-disability-advocacy.pdf'
     name: 'Disability Advocacy'
   readings:
     - { link: 'https://www.amazon.com/Disability-Pride-Dispatches-Post-ADA-World/dp/0807013331/ref=sr_1_4?dib=eyJ2IjoiMSJ9.UUYzI3w8PDi99_alvz7FAUgNMzvXS5qHjZiNGLrttlUTdLFO68dcP8hiBHL9cFnoEth9nh6a5SEAtyQeEtbS425udFf4xqf615LBZn4wnwUEnlC4rp8ow6rvD_OtMWGeDQQhVeOHJTzKSiYgAswaLnUmrdxeQTyZqwnsiVSf4NnaGxCOCtny6UZwQZX48XQ4GrZZcohQSt8XnZc6gdZilGkMPMEFDxOfmEqrpdOd9gzqvAg4VmQeaLnL01uPvzUB33yPyE-WU4d9RP3pZU31lJstoV_k9RJmkZ8Nl9jFHXw.hOCU-jnPk3qfxxwDbfgFFmb7oMCvA0Guq6tAi8TnD-c&dib_tag=se&keywords=disability+pride&qid=1726413100&sr=8-4', name: 'Disability Pride: Dispatches from a Post-ADA World (DONT READ THE WHOLE BOOK)'}
