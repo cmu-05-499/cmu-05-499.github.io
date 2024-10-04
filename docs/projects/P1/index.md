@@ -19,6 +19,8 @@ To give you practice identifying promising project ideas, you will create a proj
 You will have a budget of 1 slide (without animation) to be shown on screen as you give your pitch to the class. Your pitch slide must include:
 
 1. Project title
+1. Your name
+1. The presentation date: October 8, 2024.
 1. Partner organization you're targeting
 1. Problem being solved
 1. Your solution
