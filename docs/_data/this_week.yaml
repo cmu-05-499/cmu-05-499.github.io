@@ -1,27 +1,10 @@
 lectures:
-- date: Tue Oct 01
-  link: lectures/11-irb-supported-research.pdf
-  name: IRB-Supported Research
-  readings:
-  - link: https://www.hhs.gov/ohrp/sites/default/files/the-belmont-report-508c_FINAL.pdf
-    name: The 1979 Belmont Report
-  - link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3272525/
-    name: Institutional review board (IRB) and ethical issues in clinical research
-  - link: https://www.youtube.com/watch?v=vuMt8b4UrcI
-    name: 'The Milgram Experiement: Obedience to Authority'
-- date: Thu Oct 03
-  link: lectures/12-disability-advocacy.pdf
-  name: Disability Advocacy
-  readings:
-  - link: https://www.amazon.com/Disability-Pride-Dispatches-Post-ADA-World/dp/0807013331/ref=sr_1_4?dib=eyJ2IjoiMSJ9.UUYzI3w8PDi99_alvz7FAUgNMzvXS5qHjZiNGLrttlUTdLFO68dcP8hiBHL9cFnoEth9nh6a5SEAtyQeEtbS425udFf4xqf615LBZn4wnwUEnlC4rp8ow6rvD_OtMWGeDQQhVeOHJTzKSiYgAswaLnUmrdxeQTyZqwnsiVSf4NnaGxCOCtny6UZwQZX48XQ4GrZZcohQSt8XnZc6gdZilGkMPMEFDxOfmEqrpdOd9gzqvAg4VmQeaLnL01uPvzUB33yPyE-WU4d9RP3pZU31lJstoV_k9RJmkZ8Nl9jFHXw.hOCU-jnPk3qfxxwDbfgFFmb7oMCvA0Guq6tAi8TnD-c&dib_tag=se&keywords=disability+pride&qid=1726413100&sr=8-4
-    name: 'Disability Pride: Dispatches from a Post-ADA World (DONT READ THE WHOLE
-      BOOK)'
-  - link: https://canvas.cmu.edu/courses/42586/files/11510661?wrap=1
-    name: Chapter 3 from the book Disability Pride
-  - link: https://canvas.cmu.edu/courses/42586/files/11510662?wrap=1
-    name: Chapter 5 from the book Disability Pride
-  - link: https://www.youtube.com/watch?v=LUkKSbbdHmo
-    name: Intersection Advocacy from the Autistic Self-Advocacy Network
+- date: Tue Oct 08
+  link: ''
+  name: Project Pitches
+- date: Thu Oct 10
+  link: ''
+  name: Team Norming
 
 projects:
 - date: Thu Sep 26
@@ -30,5 +13,17 @@ projects:
   link: projects/P1
   name: P1 - Project Pitches
   numDays: 8
+- date: Tue Oct 08
+  deadline: October 11, 2024
+  end_date: 2024-10-11 00:00:00
+  link: ''
+  name: P2 - Team Contracts
+  numDays: 3
+- date: Thu Oct 10
+  deadline: October 24, 2024
+  end_date: 2024-10-24 00:00:00
+  link: ''
+  name: P3 - Project Specification + Mini-IRB
+  numDays: 10
 
 recitation: null
