@@ -61,8 +61,9 @@ if schedule:
                 lectures.append(schedule_day['lecture'])
                 lectures[-1]['date'] = schedule_day['date']
 
-                if schedule_day['readings'] != '':
-                    lectures[-1]['readings'] = schedule_day['readings']
+                if 'readings' in schedule_day:
+                    if schedule_day['readings'] != '':
+                        lectures[-1]['readings'] = schedule_day['readings']
 
             if schedule_day['recitation']['name'] != '':
                 recitation = schedule_day['recitation']
