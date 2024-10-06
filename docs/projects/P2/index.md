@@ -1,54 +1,91 @@
-# Project 2: Collaborative Development
+# Project 2: Team Process
 
 ## Learning Goals
 
-- Translating requirements into actionable user stories
-- Practice getting to know a pre-existing code base and developing new features for it using previously unfamiliar technology
-- Practice version control and development best practices within the context of a group assignment
-- Plan and schedule projects in terms of tasks, milestones, and time estimations, and re-plan as required
 - Make initial decisions on a team process, and reflect on your experience with the process
-- Effectively coordinate among team members and conduct team meetings
-- Meaningfully reflect on the experience of working in teams
-
+- Practice version control and development best practices within the context of a group assignment
 
 ## Project Context
 
-CMU has over 14,000 students and hundreds of courses every semester. Many of these courses use a combination of educational platforms to distribute course materials (handouts, lecture notes, etc), manage student information, assess student learning, and provide a means of communication between the students and course staff. Examples of such platforms include Canvas, Piazza, and Gradescope. 
+You have just been assigned to a team to work on a project for your partner organization. Now, you need to come together to discuss one another's backgrounds and skills, negotiate your team norms, and write up a team contract. These include communication standards, time expectations, division of labor, a definition of equitable contribution, and procedures for managing conflicts within the team.
 
-However, the distributed nature of this system makes it difficult for instructors to synchronize information across each of the different platforms, and the lack of standardization across the university forces students to remember a different set of links for each class.
+## Team Setup
 
-Your manager has assigned you to a team and has tasked you with building a new course management system over the course of the semester to be used campus-wide. To help manage the scope of this project, they have specifically requested you to **focus on implementing the Q&A portion of this overarching system**, i.e. the component that enables communication between the faculty and students.
+### Slack Channel
 
-Rather than creating a new Q&A system from scratch, **management has decided that you and your team will repurpose and adapt the existing forum system provided by NodeBB**. Beyond being a pretty decent forum platform, NodeBB provides complex features that you expect will be useful like user registration, permission settings, post creation, sorting and filtering capabilities, and more.
+On the 05-499/899 Slack workspace, create a new **private** Slack channel that includes all your team members and all of the instructors (Patrick Carrington, Andrew Begel, Qiaoqiao Ma, and Kristen Scotti).
 
-Despite its considerable functionality, NodeBB is still missing many of the basic features that you would expect to find in a course-based Q&A system and needs changes to better fit this new purpose. You and your team will be responsible for coming up with an initial development plan and beginning implementation. 
+Use this Slack channel to collectively decide on a **team name**. Your team name should be unique, pronounceable, short, and something you would be proud to shout in your team cheer on the streets of Pittsburgh in the presence of small, impressionable, multilingual children. Once you have a team name, rename your team Slack channel to `#team-<teamname>`.
+
+You can use this Slack channel for subsequent project-team related discussions or specialized Q&A with your instructors for the rest of the semester.
+
+Each team will be advised by one of the two TAs, Qiaoqiao or Kristen. After your team is formed, they will tell you which one will be assigned to be your advisor.
+
+### Project Deliverables Repositories
+
+As you work on your project, you will generate a set of deliverables. You must store these deliverables in appropriate repositories.
+
+1. Specifications and other written documents should be stored in a Google Drive folder. Create a new Google Drive folder, invite the other team members to it, and be sure to provide view access to all of the course instructors.
+1. Designs and presentations may be developed in a variety of tools, but often in Canva, Figma, Google Slides, or PowerPoint. For anything stored in the cloud, be sure to provide view access to all of the course instructors in addition to your teammates. 
+1. Software code should be stored in a GitHub repository to ensure that it can be versioned and never lost. You should use this repository for all of your developed code. Be sure to use good development practices, including keeping your commits cohesive and your commit messages informative. You must give access to all of the course instructors through their GitHub usernames (abegel, justpac, kristenscotti, qqmmm).
+1. Project management may be done with professional tools like Asana, Trello, Basecamp, Jira, Smartsheet, GitHub Issues, or another tool of your choice. You should create items for feature improvements and bug fixes. You should assign these items to particular team members and tag them with appropriate labels. When making changes to your code repository, you must reference the project management issue you are working on. 
+
+## Main Deliverable
+
+### Teamwork Contract
+
+When working with a team, it is important to discuss each team member’s background, and establish common expectations of the team. Miscommunication or the general lack of communication are the most common causes of team conflict. 
+
+!!! note "Team Conflict Example"
+    A common conflict in working style is when there are team members who always want to get a headstart on their work, while there are team members who are fine with doing work a few days before the deadline. It causes panic in the former team members, while the latter team members feel frustrated as to why they are being rushed. 
+
+As such, your first process task of the semester will be creating a teamwork contract with your teammates. It is a **1 - 2 page** document containing information that all teammates agree to follow. You should work on the contract **with all members present**. We recommend that you keep it to around 1 page, 2 pages is a **hard limit.**
+
+Additionally, **it is more important that you only include statements that the team will adhere to** than it is to fulfill the length requirement (quality over quantity!) You do not need to write full sentences (bullet points are okay), but your decisions must be clearly conveyed in the document.
+
+You are free to include anything that your team deems necessary, but you should minimally address the following sections:
+
+1. **Expectations**<br/>
+How much time is each team member expected to be putting into working on projects? Punctuality? How would your team accommodate when unexpected commitments come up for a team member (e.g. interviews, sickness, competitions)?<br/><br/>
+Do account for the fact that project load can get heavier towards the end of the semester.<br/><br/> 
+
+1. **Communication**<br/>
+What platform (s) will your team be using to communicate? What is the expected time to get a response? <br/><br/>
+For any communication platforms you decide on, please test that everyone can receive notifications. We highly recommend using apps (Slack, Discord) over browser-based sites.<br/><br/>
+
+1. **Meeting Schedule**<br/>
+When and how will your team meet? What modality would it be? <br/><br/>
+A strong recommendation would be to set up a recurring 1hr meeting blocked out for the rest of the semester, so that your team does not have to scramble to find a common meeting time each week. Teams that have recurring meetings are generally more successful in the class.<br/><br/>
+
+1. **Responsibilities**<br/>
+How will you divide responsibilities for each project? During meetings, who will be in charge of note taking, organizing & running those meetings? <br/><br/>
+Often, a natural project manager will emerge, who will ensure the project moves towards completion. We highly suggest that you consider how your team would rotate that role amongst team members over the course of the remaining project deliverables. Throughout the semester, we will ask for documentation of your meeting notes, so be sure to keep them organized (we recommend using a shared Drive folder).<br/><br/>
+
+1. **Equitable Contribution & Conflict Resolution**<br/>
+What are the steps the team would take to address teammates who are contributing too little, and when will the team bring this up to the instructors? What are the steps to bring up and discuss potential teamwork issues?<br><br>
+The first thing the staff will ask the student when they mention that they are facing team issues is if they have followed the steps on their team contract.<br><br>
+How will you continue to work in the case of an irresolvable conflict between team members? The partner organization does not care if you like one another. They want to see results. Write down a set of practices you will follow to enable team members in a fight to continue to contribute without interfering with the functioning of the rest of the team.<br><br>
+
+Feel free to seek the assistance of TAs and instructors in drafting this document. 
+
+!!! note
+    We will ask you to reference, reflect upon, and refine this document throughout this semester, and we will evaluate your team's process strategies and interactions through what you outline in this contract. Please ensure that everyone on your team thoroughly discusses each of the above sections and agree with the final decisions.
+
+Once you have completed the contract itself, have all members sign and date the document as an indicator that all members have read the document and agreed to uphold all outlined items. Then, save the file as a PDF and upload it to Gradescope. Only one team member needs to make the submission; they can then add the rest of the teammates as group members for a group submission. 
+
+We also **highly recommend** that you [bookmark](https://slack.com/help/articles/205239997-Pin-messages-and-bookmark-links) the teamwork contract in your team’s Slack channel.
+
 
 
 ## Deliverables and Deadlines
 
-This will be the first assignment with your group. There are three (3) deadlines for this project. Each of the core deliverables are described below. This project is worth a total of 320 points.
+This is a **group assignment** with one (1) deliverable. This is worth 5% of your project grade.
 
-Detailed information for each of the deadlines has been split into its own subpage on the left.
+1. **Teamwork Contract** - 42 points - due Friday, October 11, 11:59pm
 
-!!! tip
-    This is a large assignment spanning from now until Fall Break. We estimate that this project will take each student on the team on average 8 hours/week over the next 5 weeks, for a total of 40 hours. We highly recommend reading through the entire assignment before starting so you are aware of our expectations for the later deliverables.
-    
-    To manage all of the write-ups, we recommend saving the pages as a PDF to print or annotate on as you work through the assignment with your team.
+To receive full credit for the teamwork contract, we expect:
 
-A) [**Team Process & Planning**](/projects/P2/1_teamprocess) – 70 points – due Thursday, Feburary 1st, 11:59pm
+- [ ] All sections listed above are addressed in a roughly 1-2 page PDF document submitted to Gradescope
+- [ ] Document demonstrates a clear process outline that was discussed between and agreed upon by the teammates
+- [ ] All group members’ signatures at the end of the document
 
-- **Prerequisite:** Team Setup
-- Teamwork Contract (35 pts)
-- Project Planning (35 pts)
-- *Extra Credit (7 pts)*
-
-B) [**First Sprint**](/projects/P2/2_firstsprint) – 95 points – due Tuesday, Feburary 13th, 11:59pm
-
-- Process & Implementation Interim Snapshot (50 pts)
-- Checkpoint Presentation (45 pts) - **Held in Recitation on Monday Feburary 12th**
-
-C) [**Second Sprint**](/projects/P2/3_secondsprint) – 110 points – due Monday, Feburary 29th, 11:59pm
-
-- Process & Implementation Final Snapshot (50 pts)
-- Team Reflection (30 pts)
-- Individual Reflection (30 pts)

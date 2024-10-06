@@ -76,6 +76,8 @@ nav:
           - projects/P0/index.md # Dummy home page; remove once we start adding projects below
       - 'Project Pitches':
           - projects/P1/index.md
+      - 'Team Contract':
+          - projects/P2/index.md
       #- "Project 1: Hello, NodeBB!":
       #    - projects/P1/index.md
       #    - 1A Build Checkpoint: projects/P1/1_checkpoint.md
