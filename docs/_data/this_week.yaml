@@ -7,12 +7,6 @@ lectures:
   name: Team Norming
 
 projects:
-- date: Thu Sep 26
-  deadline: October 8, 2024
-  end_date: 2024-10-08 00:00:00
-  link: projects/P1
-  name: P1 - Project Pitches
-  numDays: 8
 - date: Tue Oct 08
   deadline: October 11, 2024
   end_date: 2024-10-11 00:00:00
