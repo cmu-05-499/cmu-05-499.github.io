@@ -78,6 +78,8 @@ nav:
           - projects/P1/index.md
       - 'Team Contract':
           - projects/P2/index.md
+      - 'Project Specification':
+          - projects/P3/index.md
       #- "Project 1: Hello, NodeBB!":
       #    - projects/P1/index.md
       #    - 1A Build Checkpoint: projects/P1/1_checkpoint.md

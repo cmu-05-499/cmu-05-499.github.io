@@ -25,10 +25,10 @@ Each team will be advised by one of the two TAs, Qiaoqiao or Kristen. After your
 
 As you work on your project, you will generate a set of deliverables. You must store these deliverables in appropriate repositories.
 
-1. Specifications and other written documents should be stored in a Google Drive folder. Create a new Google Drive folder, invite the other team members to it, and be sure to provide view access to all of the course instructors.
+1. Specifications and other written documents must be stored in a Google Drive folder. Create a new Google Drive folder, invite the other team members to it, and be sure to provide view access to all of the course instructors.
 1. Designs and presentations may be developed in a variety of tools, but often in Canva, Figma, Google Slides, or PowerPoint. For anything stored in the cloud, be sure to provide view access to all of the course instructors in addition to your teammates. 
-1. Software code should be stored in a GitHub repository to ensure that it can be versioned and never lost. You should use this repository for all of your developed code. Be sure to use good development practices, including keeping your commits cohesive and your commit messages informative. You must give access to all of the course instructors through their GitHub usernames (abegel, justpac, kristenscotti, qqmmm).
-1. Project management may be done with professional tools like Asana, Trello, Basecamp, Jira, Smartsheet, GitHub Issues, or another tool of your choice. You should create items for feature improvements and bug fixes. You should assign these items to particular team members and tag them with appropriate labels. When making changes to your code repository, you must reference the project management issue you are working on. 
+1. Software code must be stored in a GitHub repository to ensure that it can be versioned and never lost. You should use this repository for all of your developed code. Be sure to use good development practices, including keeping your commits cohesive and your commit messages informative. You must give access to all of the course instructors through their GitHub usernames (abegel, justpac, kristenscotti, qqmmm).
+1. Project management must be done with professional tools like Asana, Trello, Basecamp, Jira, Smartsheet, GitHub Issues, or another tool of your choice. You should create items for feature improvements and bug fixes. You should assign these items to particular team members and tag them with appropriate labels. When making changes to your code repository, you must reference the project management issue you are working on. Be sure that you invite the course instructors to your project management tool.
 
 ## Main Deliverable
 
