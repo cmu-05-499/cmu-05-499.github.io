@@ -26,7 +26,7 @@ Your team has been formed and has normed. It is time to perform. You have severa
 
 You must set up a meeting with your partner organization ASAP. This can be in person or via video conferencing. Record the meeting if possible, so you have a reference to refer to in case you forget what you agreed to. Assign one member of your team to take notes in a Google Doc.
 
-In this meeting, you should talk through what your partner organization would like you to do. You may offer alternative ideas, especially those you presented in your Project Pitches. Discuss all your options, while always considering your relatively short 7-8 week project timeline to ensure you can get everything done on time. Come to an agreement about what you want to do for them. The project must be either an accessibility evaluation project or an application solution.
+In this meeting, you should talk through what your partner organization would like you to do. You may offer alternative ideas, especially those you presented in your Project Pitches. Discuss all your options, while always considering your relatively short 6-7 week project timeline to ensure you can get everything done on time. Come to an agreement about what you want to do for them. The project must be either an accessibility evaluation project or an application solution.
 
 - An **accessibility evaluation** and improvement project will evaluate a pre-existing application or web site from the partner organization for accessibility by their target clientelle. You will engage with several members of their clientelle to do an in-person evaluation. Then you will design improvements and conduct a usability evaluation on the results. Your deliverables are an updated application design or web site as well as a project report describing the results of the initial accessibility study, the re-design process, and the evaluation of the redesign.
 - An **application solution** design and evaluation project will create a new application solution for an accessibility problem from the partner organization. You will engage in a co-design process with classmates and clients of the partner organization, develop the new application, web site, or tool, and then evaluate your application with additional clients of the partner organization. Your deliverables are the new application solution and a project report describing your co-design process, design mockups, final design, application documentation, and a writeup of the evaluation of the application. 
@@ -45,7 +45,7 @@ Turn in a list of these requirements as part of the deliverable for this assignm
 
 Discuss potential functional requirements of this project. Consider what possible use cases may be for this system and what features it should have to fulfill those needs. 
 
-Then, document these functional requirements in the form of user stories. Use whatever user story format you have learned in class or used in prior group projects. 
+Then, document these functional requirements in the form of user stories. Use whatever user story format you have learned in class or used in prior group projects. User stories related to user interfaces should contain wireframes, mockups, or storyboards.
 
 **You should come up with at least two user stories per student in your group.**
 
@@ -91,16 +91,13 @@ Most project management systems have the ability to turn your prioritized user s
 
 Assign every user story expected to be done in the first milestone to a member of your project team. Be sure this assignment is visible in the project management system. Over time, you may reassign user stories to balance your team's workload.
 
-### UI Mockup
+### Storyboards
 
-Now that your project concept has been nailed down and you've agreed on how to split up the work, it is time to develop your first UI design that can help guide your team towards producing the right thing. In a design tool like Canva or Figma, create a wireframe mockup of your project. This could be a storyboard or a sequence of design graphics.  
-
-For your project deliverable, include a snapshot of your UI mockups.
-
+For each user story you have prioritized to be done for your project, pull out any UI mockups, storyboards, or wireframes and consolidate them in this section of your project deliverable.
 
 ## Deliverables and Deadlines
 
 There is one **group deliverable** for this project. This part is worth 168 points, or 20% of your project grade. This part is due October 24, 2024 11:59pm. 
 
-To receive full credit for the project specification, we expect that all sections listed above are addressed in a PDF document submitted to Gradescope. 
+To receive full credit for the project specification, we expect that all sections listed above are included in a PDF document submitted to Gradescope. 
 
