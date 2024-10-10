@@ -59,7 +59,7 @@ A strong recommendation would be to set up a recurring 1hr meeting blocked out f
 
 1. **Responsibilities**<br/>
 How will you divide responsibilities for each project? During meetings, who will be in charge of note taking, organizing & running those meetings? <br/><br/>
-Often, a natural project manager will emerge, who will ensure the project moves towards completion. We highly suggest that you consider how your team would rotate that role amongst team members over the course of the remaining project deliverables. Throughout the semester, we will ask for documentation of your meeting notes, so be sure to keep them organized (we recommend using a shared Drive folder).<br/><br/>
+Often, a natural project manager will emerge, who will ensure the project moves towards completion. Throughout the semester, we will ask for documentation of your meeting notes, so be sure to keep them organized (we recommend using a shared Drive folder).<br/><br/>
 
 1. **Equitable Contribution & Conflict Resolution**<br/>
 What are the steps the team would take to address teammates who are contributing too little, and when will the team bring this up to the instructors? What are the steps to bring up and discuss potential teamwork issues?<br><br>
