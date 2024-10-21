@@ -760,6 +760,9 @@
   reading:
     link: ''
     name: ''
+  readings:
+    - { link: 'https://dl.acm.org/doi/10.1145/3331067', name: 'Computing technologies to increase access to physical activity for people with visual impairments | XRDS: Crossroads, The ACM Magazine for Students'}
+    - { link: 'https://dl.acm.org/doi/10.1145/3441852.3471223', name: 'Beyond Adaptive Sports ASSETS 2021' }
   recitation:
     handout: ''
     name: ''
