@@ -571,7 +571,7 @@
 - date: Tue Oct 08
   homework:
     deadline: 'October 11, 2024'
-    link: ''
+    link: 'projects/P2'
     name: 'P2 - Team Contracts'
     numDays: 3
   lecture:
@@ -607,7 +607,7 @@
 - date: Thu Oct 10
   homework:
     deadline: 'October 29, 2024'
-    link: ''
+    link: 'projects/P3'
     name: 'P3 - Project Specification + Mini-IRB'
     numDays: 15
   lecture:
@@ -755,7 +755,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: 'lectures/13-games-and-sports.pdf'
+    link: 'lectures/13-games-sports.pdf'
     name: 'Games and Sports'
   reading:
     link: ''
