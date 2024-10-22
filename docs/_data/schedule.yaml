@@ -606,10 +606,10 @@
 
 - date: Thu Oct 10
   homework:
-    deadline: 'October 24, 2024'
+    deadline: 'October 29, 2024'
     link: ''
     name: 'P3 - Project Specification + Mini-IRB'
-    numDays: 10
+    numDays: 15
   lecture:
     link: ''
     name: 'Team Norming'
