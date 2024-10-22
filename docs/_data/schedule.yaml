@@ -755,7 +755,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'lectures/13-games-and-sports.pdf'
     name: 'Games and Sports'
   reading:
     link: ''
