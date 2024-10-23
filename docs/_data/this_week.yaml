@@ -11,6 +11,15 @@ lectures:
 - date: Thu Oct 24
   link: ''
   name: Virtual Reality VR/AR/XR/MR
+  readings:
+  - link: https://dl.acm.org/doi/10.1145/3373625.3416998
+    name: Mott, M., Tang, J., Kane, S., Cutrell, E., & Ringel Morris, M. (2020, October).
+      "I just went into it assuming that I wouldn't be able to have the full experience,"
+      Proceedings of the 22nd International ACM SIGACCESS Conference on Computers
+      and Accessibility
+  - link: https://www.youtube.com/watch?v=tr4Ejq5fHMc
+    name: 'SeeingVR: A Set of Tools to Make Virtual Reality More Accessible to People
+      with Low Vision'
 
 projects:
 - date: Thu Oct 10
