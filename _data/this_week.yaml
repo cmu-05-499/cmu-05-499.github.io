@@ -1,0 +1,29 @@
+lectures:
+- date: Tue Oct 22
+  link: lectures/13-games-sports.pdf
+  name: Games and Sports
+  readings:
+  - link: https://dl.acm.org/doi/10.1145/3331067
+    name: 'Computing technologies to increase access to physical activity for people
+      with visual impairments | XRDS: Crossroads, The ACM Magazine for Students'
+  - link: https://dl.acm.org/doi/10.1145/3441852.3471223
+    name: Beyond Adaptive Sports ASSETS 2021
+- date: Thu Oct 24
+  link: ''
+  name: Virtual Reality VR/AR/XR/MR
+
+projects:
+- date: Thu Oct 10
+  deadline: October 29, 2024
+  end_date: 2024-10-31 00:00:00
+  link: projects/P3
+  name: P3 - Project Specification + Mini-IRB
+  numDays: 15
+- date: Thu Oct 24
+  deadline: November 14, 2024
+  end_date: 2024-11-14 00:00:00
+  link: ''
+  name: P4 - Project Milestone 1
+  numDays: 15
+
+recitation: null
