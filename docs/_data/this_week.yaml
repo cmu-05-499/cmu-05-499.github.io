@@ -1,25 +1,25 @@
 lectures:
-- date: Tue Oct 22
-  link: lectures/13-games-sports.pdf
-  name: Games and Sports
-  readings:
-  - link: https://dl.acm.org/doi/10.1145/3331067
-    name: 'Computing technologies to increase access to physical activity for people
-      with visual impairments | XRDS: Crossroads, The ACM Magazine for Students'
-  - link: https://dl.acm.org/doi/10.1145/3441852.3471223
-    name: Beyond Adaptive Sports ASSETS 2021
-- date: Thu Oct 24
+- date: Tue Oct 29
   link: ''
-  name: Virtual Reality VR/AR/XR/MR
+  name: 'Guest Speaker: Prof. Varsha Koushik, Colorado College'
   readings:
-  - link: https://dl.acm.org/doi/10.1145/3373625.3416998
-    name: Mott, M., Tang, J., Kane, S., Cutrell, E., & Ringel Morris, M. (2020, October).
-      "I just went into it assuming that I wouldn't be able to have the full experience,"
-      Proceedings of the 22nd International ACM SIGACCESS Conference on Computers
-      and Accessibility
-  - link: https://www.youtube.com/watch?v=tr4Ejq5fHMc
-    name: 'SeeingVR: A Set of Tools to Make Virtual Reality More Accessible to People
-      with Low Vision'
+  - link: https://canvas.cmu.edu/courses/42586/files?preview=11631533
+    name: 'Towards augmented reality coaching for daily routines: Participatory design
+      with individuals with cognitive disabilities and their caregivers'
+  - link: https://doi.org/10.1145/3544548.3581204
+    name: 'Keke Wu, Michelle Ho Tran, Emma Petersen, Varsha Koushik, and Danielle
+      Albers Szafir. 2023. Data, Data, Everywhere: Uncovering Everyday Data Experiences
+      for People with Intellectual and Developmental Disabilities. In Proceedings
+      of the 2023 CHI Conference on Human Factors in Computing Systems (CHI 2023).
+      Association for Computing Machinery, New York, NY, USA, Article 804, 1-17.'
+- date: Thu Oct 31
+  link: ''
+  name: Responsible AI + Data Equity
+  readings:
+  - link: https://dl.acm.org/doi/full/10.1145/3544548.3581480
+    name: 'Counterventions: a reparative reflection on interventionist HCI'
+  - link: https://dl.acm.org/doi/10.1145/3290607.3310433
+    name: A Mulching Proposal
 
 projects:
 - date: Thu Oct 10
@@ -31,7 +31,7 @@ projects:
 - date: Thu Oct 24
   deadline: November 14, 2024
   end_date: 2024-11-14 00:00:00
-  link: ''
+  link: projects/P4
   name: P4 - Project Milestone 1
   numDays: 15
 
