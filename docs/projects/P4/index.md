@@ -21,7 +21,7 @@ If you are conducting an accessibility evaluation, your goal for this milestone 
 
 As per the IRB protocol you submitted with the last assignment, you must prepare recruitment flyers, consent forms, questionnaires, and evaluations. If you have not turned these in yet, you **must** run them by your TA for approval **prior** to engaging with any of your study participants. 
 
-Your deliverable for this portion of the project are all of the transcripts, notes, and analysis you create after evaluating the application or web site with your participants. 
+Your deliverable for this portion of the project is all of the transcripts, notes, and analysis you create after evaluating the application or web site with your participants. 
 
 We note that these requirements are deliberately vague, to give your team the latitude it requires to customize the accessibility evaluation for the needs of the application or web site and your partner organization. You must demonstrate that your evaluation builds on everything you have learned so far in this class (and should it require, go beyond as well). 
 

@@ -794,7 +794,7 @@
     name: 'P4 - Project Milestone 1'
     numDays: 15
   lecture:
-    link: ''
+    link: 'lectures/14-vr-xr.pdf'
     name: 'Virtual Reality VR/AR/XR/MR'
   reading:
     link: ''
@@ -1063,7 +1063,7 @@
 - date: Thu Nov 14
   homework:
     deadline: 'November 26, 2024'
-    link: ''
+    link: 'projects/P5'
     name: 'P5 - Project Milestone 2'
     numDays: 8
   lecture:
