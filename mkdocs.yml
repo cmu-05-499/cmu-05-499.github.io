@@ -82,6 +82,8 @@ nav:
           - projects/P3/index.md
       - 'Project Milestone 1':
           - projects/P4/index.md
+      - 'Project Milestone 2':
+          - projects/P5/index.md
       #- "Project 1: Hello, NodeBB!":
       #    - projects/P1/index.md
       #    - 1A Build Checkpoint: projects/P1/1_checkpoint.md
