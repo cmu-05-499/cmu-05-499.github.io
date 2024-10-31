@@ -887,8 +887,8 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
-    name: 'Responsible AI + Data Equity'
+    link: 'lectures/15-responsible-ai.pdf'
+    name: 'Responsible AI'
   readings:
     - { link: 'https://dl.acm.org/doi/full/10.1145/3544548.3581480', name: 'Counterventions: a reparative reflection on interventionist HCI' }
     - { link: 'https://dl.acm.org/doi/10.1145/3290607.3310433', name: 'A Mulching Proposal' }
