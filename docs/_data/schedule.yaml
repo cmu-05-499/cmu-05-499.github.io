@@ -980,8 +980,13 @@
     link: ''
     name: 'Accessible Software Development'
   reading:
-    link: ''
-    name: ''
+    link:
+    name:
+  readings:
+    - { link: 'https://stemforall2018.videohall.com/presentations/1078', name: 'Blocks4All Programming Environment' }
+    - { link: 'https://doi.org/10.1145/3132525.3132550', name: 'Interviews and Observation of Blind Software Developers at Work to Understand Code Navigation Challenges'}
+    - { link: 'https://doi.org/10.1145/3192714.3192821', name: 'Vocal Programming for People with Upper-Body Motor Impairments'}
+    - { link: 'https://doi.org/10.1109/VLHCC.2005.58', name: 'Spoken Programs'}
   recitation:
     handout: ''
     name: ''
