@@ -977,7 +977,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'lectures/16-accessible-software-development.pdf'
     name: 'Accessible Software Development'
   reading:
     link:
