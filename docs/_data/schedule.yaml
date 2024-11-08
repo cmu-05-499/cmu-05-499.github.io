@@ -1041,6 +1041,12 @@
   reading:
     link: ''
     name: ''
+  readings:
+    - { link: 'https://udlguidelines.cast.org/static/udlg3-graphicorganizer-digital-nonumbers-a11y.pdf', name: 'Universal Design for Learning Guidelines'}
+    - { link: 'https://doi.org/10.1145/2839509.2844570', name: 'Differentiating for Diversity: Using Universal Design for Learning in Elementary Computer Science Education'}
+    - { link: 'https://doi.org/10.1145/3641011', name: 'Neurodiversity and the Accessible University: Exploring Organizational Barriers, Access Labor and Opportunities for Change'}
+    - { link: 'https://www.youtube.com/watch?v=CumrW0vj_a8', name: 'Deaf Kids Code' }
+    - { link: 'https://www.microsoft.com/en-us/research/uploads/prod/2021/02/Accessible-CS-Ed-in-Colleges-and-Universities_Andrew-Begel.pdf', name: 'Accessible Computing Education in Colleges and Universities' }
   recitation:
     handout: ''
     name: ''
@@ -1077,6 +1083,9 @@
   reading:
     link: ''
     name: ''
+  readings:
+    - { link: 'https://www.microsoft.com/en-us/research/uploads/prod/2021/02/Report-Education-for-Employment-Pathways.pdf', name: 'Education for Employment Pathways' }
+    - { link: 'https://canvas.cmu.edu/courses/42586/files?preview=11892358', name: 'The Dandelion Principle: Redesigning Work for the Innovation Economy'}
   recitation:
     handout: ''
     name: ''
