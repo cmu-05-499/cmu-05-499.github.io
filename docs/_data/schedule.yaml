@@ -1047,6 +1047,7 @@
     - { link: 'https://doi.org/10.1145/3641011', name: 'Neurodiversity and the Accessible University: Exploring Organizational Barriers, Access Labor and Opportunities for Change'}
     - { link: 'https://www.youtube.com/watch?v=CumrW0vj_a8', name: 'Deaf Kids Code' }
     - { link: 'https://www.microsoft.com/en-us/research/uploads/prod/2021/02/Accessible-CS-Ed-in-Colleges-and-Universities_Andrew-Begel.pdf', name: 'Accessible Computing Education in Colleges and Universities' }
+    - { link: 'https://www.washington.edu/accesscomputing/improving-equity-and-access-graduate-students-disabilities', name: 'Improving Equity and Access for Graduate Students with Disabilities'}
   recitation:
     handout: ''
     name: ''
