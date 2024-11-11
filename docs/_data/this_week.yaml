@@ -1,20 +1,30 @@
 lectures:
-- date: Tue Nov 05
+- date: Tue Nov 12
   link: ''
-  name: NO CLASS - Democracy Day
-- date: Thu Nov 07
-  link: lectures/16-accessible-software-development.pdf
-  name: Accessible Software Development
+  name: Inclusive Education
   readings:
-  - link: https://stemforall2018.videohall.com/presentations/1078
-    name: Blocks4All Programming Environment
-  - link: https://doi.org/10.1145/3132525.3132550
-    name: Interviews and Observation of Blind Software Developers at Work to Understand
-      Code Navigation Challenges
-  - link: https://doi.org/10.1145/3192714.3192821
-    name: Vocal Programming for People with Upper-Body Motor Impairments
-  - link: https://doi.org/10.1109/VLHCC.2005.58
-    name: Spoken Programs
+  - link: https://udlguidelines.cast.org/static/udlg3-graphicorganizer-digital-nonumbers-a11y.pdf
+    name: Universal Design for Learning Guidelines
+  - link: https://doi.org/10.1145/2839509.2844570
+    name: 'Differentiating for Diversity: Using Universal Design for Learning in Elementary
+      Computer Science Education'
+  - link: https://doi.org/10.1145/3641011
+    name: 'Neurodiversity and the Accessible University: Exploring Organizational
+      Barriers, Access Labor and Opportunities for Change'
+  - link: https://www.youtube.com/watch?v=CumrW0vj_a8
+    name: Deaf Kids Code
+  - link: https://www.microsoft.com/en-us/research/uploads/prod/2021/02/Accessible-CS-Ed-in-Colleges-and-Universities_Andrew-Begel.pdf
+    name: Accessible Computing Education in Colleges and Universities
+  - link: https://www.washington.edu/accesscomputing/improving-equity-and-access-graduate-students-disabilities
+    name: Improving Equity and Access for Graduate Students with Disabilities
+- date: Thu Nov 14
+  link: ''
+  name: Disability Employment
+  readings:
+  - link: https://www.microsoft.com/en-us/research/uploads/prod/2021/02/Report-Education-for-Employment-Pathways.pdf
+    name: Education for Employment Pathways
+  - link: https://canvas.cmu.edu/courses/42586/files?preview=11892358
+    name: 'The Dandelion Principle: Redesigning Work for the Innovation Economy'
 
 projects:
 - date: Thu Oct 24
@@ -23,5 +33,11 @@ projects:
   link: projects/P4
   name: P4 - Project Milestone 1
   numDays: 15
+- date: Thu Nov 14
+  deadline: November 26, 2024
+  end_date: 2024-11-26 00:00:00
+  link: projects/P5
+  name: P5 - Project Milestone 2
+  numDays: 8
 
 recitation: null
