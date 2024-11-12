@@ -1036,7 +1036,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'lectures/17-inclusive-education.pdf'
     name: 'Inclusive Education'
   reading:
     link: ''
