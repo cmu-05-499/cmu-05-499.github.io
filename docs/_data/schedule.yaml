@@ -1141,6 +1141,10 @@
   reading:
     link: ''
     name: ''
+  readings:
+    - { link: 'https://canvas.cmu.edu/courses/42586/files?preview=11915178&sort=created_at&order=desc', name: 'Human rights and the city: Including marginalized communities in urban development and smart cities' }
+    - { link: 'https://canvas.cmu.edu/courses/42586/files?preview=11915179&sort=created_at&order=desc', name: '"We should all feel welcome to the park": Intergenerational Public Space and Universal Design in Disinvested Communities'}
+    - { link: 'https://www.youtube.com/watch?v=wTqRYL-AjJ8', name: 'New York City''s Inaccessible Transit System' }
   recitation:
     handout: ''
     name: ''
