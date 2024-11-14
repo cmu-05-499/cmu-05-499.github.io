@@ -35,9 +35,9 @@ projects:
   numDays: 8
 - date: Fri Nov 15
   deadline: November 26, 2024
-  end_date: 2024-11-29 00:00:00
-  link: ''
+  end_date: 2024-11-26 00:00:00
+  link: homework/HW4
   name: HW4 - Celebrating Accessibility Essay
-  numDays: 10
+  numDays: 7
 
 recitation: null
