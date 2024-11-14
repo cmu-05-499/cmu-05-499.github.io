@@ -27,12 +27,6 @@ lectures:
     name: 'The Dandelion Principle: Redesigning Work for the Innovation Economy'
 
 projects:
-- date: Thu Oct 24
-  deadline: November 14, 2024
-  end_date: 2024-11-14 00:00:00
-  link: projects/P4
-  name: P4 - Project Milestone 1
-  numDays: 15
 - date: Thu Nov 14
   deadline: November 26, 2024
   end_date: 2024-11-26 00:00:00
