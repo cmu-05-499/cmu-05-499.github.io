@@ -1095,10 +1095,10 @@
 
 - date: Fri Nov 15
   homework:
-    deadline: ''
+    deadline: 'November 26, 2024'
     link: ''
-    name: ''
-    numDays: 0
+    name: 'HW4 - Celebrating Accessibility Essay'
+    numDays: 10
   lecture:
     link: ''
     name: ''
@@ -1131,9 +1131,9 @@
 
 - date: Tue Nov 19
   homework:
-    deadline: 'November 27, 2024'
+    deadline: ''
     link: ''
-    name: 'HW4 - Celebrating Accessibility Essay'
+    name: ''
     numDays: 7
   lecture:
     link: ''
