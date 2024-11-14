@@ -71,6 +71,8 @@ nav:
           - 'homework/HW2/index.md'
       - 'Homework 3 Accessibility Evaluation':
           - 'homework/HW3/index.md'
+      - 'Homework 4 Celebrating Accessibility Essay':
+          - 'homework/HW4/index.md'
   - Projects:
       - 'Project Overview':
           - projects/P0/index.md # Dummy home page; remove once we start adding projects below
