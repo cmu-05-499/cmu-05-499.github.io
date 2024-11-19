@@ -1179,6 +1179,8 @@
     link: ''
     name: 'Non-Work Activities (e.g. Cooking, exercise, dating, creative arts)'
   reading:
+    - { link: 'https://doi.org/10.1145/3613904.3642233', name: 'A Contextual Inquiry of People with Vision Impairments in Cooking' }
+    - { link: 'https://dl.acm.org/doi/10.1145/3544548.3580941', name: 'Understanding Visual Arts Experiences of Blind People' }
     link: ''
     name: ''
   recitation:
