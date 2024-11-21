@@ -65,8 +65,8 @@
     link: ''
     name: ''
   readings:
-    - { link: 'https://canvas.cmu.edu/courses/42586/files/11475594?wrap=1', 
-        name: 'What do we mean by "Accessibility" research?' } 
+    - { link: 'https://canvas.cmu.edu/courses/42586/files/11475594?wrap=1',
+        name: 'What do we mean by "Accessibility" research?' }
     - { link: 'https://canvas.cmu.edu/courses/42586/files/11475605?wrap=1',
         name: 'The Harm in Conflating Aging with Accessibility' }
   recitation:
@@ -211,7 +211,7 @@
   readings:
     - { link: 'https://doi.org/10.1145/3234695.3236348', name: 'Cynthia L. Bennett, Erin Brady, and Stacy M. Branham. 2018. Interdependence as a Frame for Assistive Technology Research and Design Download Interdependence as a Frame for Assistive Technology Research and Design. In Proceedings of the 20th International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2018). Association for Computing Machinery, New York, NY, USA, 161-173.' }
     - { link: 'https://doi.org/10.1080/23251042.2018.1424497', name: 'Jampel, C. (2018). Intersections of disability justice, racial justice and environmental justice Download Intersections of disability justice, racial justice and environmental justice. Environmental Sociology, 4(1), 122-135.' }
-    - { link: 'https://www.youtube.com/watch?v=OFS8SpwioZ4', name: 'Excerpts from the movie "Crip Camp." 
+    - { link: 'https://www.youtube.com/watch?v=OFS8SpwioZ4', name: 'Excerpts from the movie "Crip Camp."
                                                                     Protest movement to start disability rights: 39:03 - 50:02
                                                                     Judy Heumann schooling government officials: 1:29:50 - 1:36:07' }
   recitation:
@@ -799,7 +799,7 @@
   reading:
     link: ''
     name: ''
-  readings: 
+  readings:
     - { link: 'https://dl.acm.org/doi/10.1145/3373625.3416998', name: 'Mott, M., Tang, J., Kane, S., Cutrell, E., & Ringel Morris, M. (2020, October). "I just went into it assuming that I wouldn''t be able to have the full experience," Proceedings of the 22nd International ACM SIGACCESS Conference on Computers and Accessibility' }
     - { link: 'https://www.youtube.com/watch?v=tr4Ejq5fHMc', name: 'SeeingVR: A Set of Tools to Make Virtual Reality More Accessible to People with Low Vision' }
   recitation:
@@ -1235,6 +1235,9 @@
   lecture:
     link: ''
     name: 'Fabrication and DIY for Accessibility'
+  readings:
+        - { link: 'https://doi.org/10.1145/2049536.2049541', name: 'Empowering individuals with do-it-yourself assistive technology' }
+        - { link: 'https://doi.org/10.1145/3290605.3300544', name: 'Occupational Therapy is Making' }
   reading:
     link: ''
     name: ''
