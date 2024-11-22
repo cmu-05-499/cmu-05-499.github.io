@@ -1136,7 +1136,7 @@
     name: ''
     numDays: 7
   lecture:
-    link: ''
+    link: 'lectures/19-THMLA.pdf'
     name: 'Transportation + Housing + Museums + Libraries'
   reading:
     link: ''
