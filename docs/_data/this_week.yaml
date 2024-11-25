@@ -1,24 +1,15 @@
 lectures:
-- date: Tue Nov 19
+- date: Tue Nov 26
   link: ''
-  name: Transportation + Housing + Museums + Libraries
+  name: Fabrication and DIY for Accessibility
   readings:
-  - link: https://canvas.cmu.edu/courses/42586/files?preview=11915178&sort=created_at&order=desc
-    name: 'Human rights and the city: Including marginalized communities in urban
-      development and smart cities'
-  - link: https://canvas.cmu.edu/courses/42586/files?preview=11915179&sort=created_at&order=desc
-    name: '"We should all feel welcome to the park": Intergenerational Public Space
-      and Universal Design in Disinvested Communities'
-  - link: https://www.youtube.com/watch?v=wTqRYL-AjJ8
-    name: New York City's Inaccessible Transit System
-- date: Thu Nov 21
-  link: lectures/20-non-work-activities.pdf
-  name: Non-Work Activities (e.g. Cooking, exercise, dating, creative arts)
-  readings:
-  - link: https://doi.org/10.1145/3613904.3642233
-    name: A Contextual Inquiry of People with Vision Impairments in Cooking
-  - link: https://dl.acm.org/doi/10.1145/3544548.3580941
-    name: Understanding Visual Arts Experiences of Blind People
+  - link: https://doi.org/10.1145/2049536.2049541
+    name: Empowering individuals with do-it-yourself assistive technology
+  - link: https://doi.org/10.1145/3290605.3300544
+    name: Occupational Therapy is Making
+- date: Thu Nov 28
+  link: ''
+  name: NO CLASS - Thanksgiving
 
 projects:
 - date: Thu Nov 14
@@ -33,5 +24,11 @@ projects:
   link: homework/HW4
   name: HW4 - Celebrating Accessibility Essay
   numDays: 7
+- date: Tue Nov 26
+  deadline: December 13, 2024
+  end_date: 2024-12-19 00:00:00
+  link: ''
+  name: P6 - Project Presentations + Report
+  numDays: 17
 
 recitation: null
