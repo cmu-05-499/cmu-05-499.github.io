@@ -25,5 +25,8 @@ Describe the specific work **each of your team members** have contributed toward
 
 A good reflection document will include concrete statements about lessons learned, with clear supporting evidence such as examples, to support them. 
 
+!!! warning "No AI Allowed"
+    You may not use any form of AI writing assistance to help you craft your evaluations, not even to improve your grammar. We must hear your own authentic, unfiltered thoughts and opinions, unaltered by ChatGPT, Gemini, Grammarly, or any other LLM or AI based writing tool. We recognize that this may reduce the appearance of fluency in your writing, but do not fear. In this assignment, we promise to evaluate only the content of your writing, not its perceived quality. 
+
 Submit a PDF of your reflection on **Gradescope** by Monday, December 9, 11:59pm.
 

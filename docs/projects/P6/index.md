@@ -9,6 +9,7 @@ This is the end of your group project! There are four deliverables for this proj
 A) [**Project Final Presentation**](1_final_presentation.md) - 70 points (group)
 
 - Presentation for Class - **Presented during class on Tuesday, December 3**
+- Presentation Slides - **due Tuesday, December 3, 11:00am**
 
 B) [**Project Final Report**](2_final_report.md) - 95 points (group) - **due Friday, December 6, 11:59pm**
 
