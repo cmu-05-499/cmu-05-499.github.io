@@ -1233,7 +1233,7 @@
     name: 'P6 - Project Presentations + Report'
     numDays: 17
   lecture:
-    link: ''
+    link: 'lectures/21-diy-fabrication.pdf'
     name: 'Fabrication and DIY for Accessibility'
   readings:
         - { link: 'https://doi.org/10.1145/2049536.2049541', name: 'Empowering individuals with do-it-yourself assistive technology' }
