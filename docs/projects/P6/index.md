@@ -22,7 +22,7 @@ C) [**Project Reflection**](3_reflection.md) - 20 points (individual) - **turned
 - Peer Evaluation (6 points)
 - Teamwork Evaluation (6 points)
 
-D) [**Project Delivery to Partner Organization**](4_delivery.md) - 25 points (group) - **must occur by Wednesday, December 13, 11:59pm**
+D) [**Project Delivery to Partner Organization**](4_delivery.md) - 25 points (group) - **must occur by Friday, December 13, 11:59pm**
 
 - Presentation for Partner Organization 
 - Project Deliverable 

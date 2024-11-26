@@ -4,7 +4,7 @@
 
 There are two deliverables, worth a total of 25 points.
 
-1. You must present your work to your partner organization by Wednesday, December 13. You may use the same presentation materials as you prepared for your team's in-class presentation on Tuesday, December 3. 
+1. You must present your work to your partner organization by Friday, December 13. You may use the same presentation materials as you prepared for your team's in-class presentation on Tuesday, December 3. 
 
 2. You must transfer ownership of redesign or application solution to your partner organization so they they can continue working from where you left off. This must occur by Wednesday, December 13.
     - Create a "new hire document" that explains how to gain access to all project materials and provides instructions to build, compile, and deploy your redesigned web site or application. 
@@ -14,6 +14,6 @@ There are two deliverables, worth a total of 25 points.
 !!! warning "IRB Compliance"
     Do not share any personally-identifying information about any study participants who evaluated web sites or applications.
 
-After Wednesday, December 13, we will ask the partner organization to provide an evaluation of your work as part of your final grade. Their assessment is worth 25 points. 
+After Friday, December 13, we will ask the partner organization to provide an evaluation of your work as part of your final grade. Their assessment is worth 25 points. 
 
 
