@@ -81,10 +81,11 @@ Write up a report summarizing the most important findings from the pilot test of
     1. Changes you made to the design to based on the lessons learned.
 
 1. **Evaluation of the Application** (1 page)
-Write up a report summarizing the most important findings from the evaluation of the redesign with people with the target disability. This section of your report should include the following sections:
-    1. Tasks you asked the users to do
+Write up a report summarizing the most important findings from the evaluation of the application with a person with the target disability. This section of your report should include the following sections:
+    1. Tasks you asked the user to do
     1. Positive aspects of the evaluations (i.e. what about the application worked well)
     1. Negative aspects of the evaluations (i.e. what kind of challenges did the users experience when trying to use the application)
+    1. Changes you would like to make to the design to based on the lessons learned.
 
 1. **Application Demo** (embedded video)
 Embed a YouTube video of a 3-4 minute demo of the application you created. Provide a voiceover narration to explain what you are showing the viewer.
