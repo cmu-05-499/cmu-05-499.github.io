@@ -45,7 +45,7 @@ Write up a report summarizing the most important findings from the accessibility
 Embed a YouTube video of a 3-4 minute demo of the redesigned application or web site. Provide a voiceover narration to explain what you are showing the viewer.
 
 1. **Partner Organization Feedback** (1 page)
-If you have met with your partner organization and showed them your redesign before P6 is due, write down a summary of their thoughts and opinions about the work. If you only meet with them after P6 is due, add this section to your project report web page prior to Wednesday, December 13, 11:59pm.
+If you have met with your partner organization and showed them your redesign before P6 is due, write down a summary of their thoughts and opinions about the work. If you only meet with them after P6 is due, add this section to your project report web page prior to Friday, December 13, 11:59pm.
 
 
 
@@ -90,4 +90,4 @@ Write up a report summarizing the most important findings from the evaluation of
 Embed a YouTube video of a 3-4 minute demo of the application you created. Provide a voiceover narration to explain what you are showing the viewer.
 
 1. **Partner Organization Feedback** (1 page)
-If you have met with your partner organization and showed them your application before P6 is due, write down a summary of their thoughts and opinions about the work. If you only meet with them after P6 is due, add this section to your project report web page prior to Wednesday, December 13, 11:59pm.
+If you have met with your partner organization and showed them your application before P6 is due, write down a summary of their thoughts and opinions about the work. If you only meet with them after P6 is due, add this section to your project report web page prior to Friday, December 13, 11:59pm.
