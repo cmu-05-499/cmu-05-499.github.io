@@ -1,6 +1,6 @@
 lectures:
 - date: Tue Nov 26
-  link: ''
+  link: lectures/21-diy-fabrication.pdf
   name: Fabrication and DIY for Accessibility
   readings:
   - link: https://doi.org/10.1145/2049536.2049541
