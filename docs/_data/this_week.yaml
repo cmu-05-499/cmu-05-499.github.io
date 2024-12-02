@@ -1,15 +1,13 @@
 lectures:
-- date: Tue Nov 26
-  link: lectures/21-diy-fabrication.pdf
-  name: Fabrication and DIY for Accessibility
-  readings:
-  - link: https://doi.org/10.1145/2049536.2049541
-    name: Empowering individuals with do-it-yourself assistive technology
-  - link: https://doi.org/10.1145/3290605.3300544
-    name: Occupational Therapy is Making
-- date: Thu Nov 28
+- date: Tue Dec 03
   link: ''
-  name: NO CLASS - Thanksgiving
+  name: 'P6A: Final Project Presentations in Class'
+- date: Thu Dec 05
+  link: ''
+  name: Semester Review
+- date: Fri Dec 06
+  link: ''
+  name: 'P6B: Final Project Report Due'
 
 projects:
 - date: Tue Nov 26
