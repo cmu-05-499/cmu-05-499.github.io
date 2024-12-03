@@ -7,7 +7,7 @@ You will prepare a 10-minute presentation on your project, work, and experience.
 - Your presentation is worth 60 points.
 - Your time answering questions posed by the instructors is worth 10 points.
 
-Your deliverable for this project is a PDF printout of your slides. Submit this to Gradescope as P6A by the beginning of class on Tuesday, December 3, 11:00am.
+Your deliverable for this project is a PDF of your slides. Submit this to Gradescope as P6A by the beginning of class on Tuesday, December 3, 11:00am.
 
 !!! warning "IRB Compliance"
     Do not share any personally-identifying information about any study participants who evaluated web sites or applications.
