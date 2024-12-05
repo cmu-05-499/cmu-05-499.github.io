@@ -1326,7 +1326,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'projects/P6/1_final_presentation.md'
     name: 'P6A: Final Project Presentations in Class'
   reading:
     link: ''
@@ -1362,7 +1362,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'lectures/22-summary.pdf'
     name: 'Semester Review'
   reading:
     link: ''
@@ -1380,7 +1380,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'projects/P6/2_final_report.md'
     name: 'P6B: Final Project Report Due'
   reading:
     link: ''
@@ -1398,7 +1398,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'projects/P6/3_reflection.md'
     name: 'P6C: Final Project Reflection Due'
   reading:
     link: ''
@@ -1470,7 +1470,7 @@
     name: ''
     numDays: 0
   lecture:
-    link: ''
+    link: 'projects/P6/4_delivery.md'
     name: 'P6D: Final Project Presentation and Delivery to Partner Organization'
   reading:
     link: ''
