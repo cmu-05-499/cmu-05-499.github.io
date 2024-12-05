@@ -1,12 +1,12 @@
 lectures:
 - date: Tue Dec 03
-  link: ''
+  link: projects/P6/1_final_presentation.md
   name: 'P6A: Final Project Presentations in Class'
 - date: Thu Dec 05
-  link: ''
+  link: lectures/22-summary.pdf
   name: Semester Review
 - date: Fri Dec 06
-  link: ''
+  link: projects/P6/2_final_report.md
   name: 'P6B: Final Project Report Due'
 
 projects:
