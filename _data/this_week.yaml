@@ -1,0 +1,17 @@
+lectures:
+- date: Mon Dec 09
+  link: projects/P6/3_reflection
+  name: 'P6C: Final Project Reflection Due'
+- date: Fri Dec 13
+  link: projects/P6/4_delivery
+  name: 'P6D: Final Project Presentation and Delivery to Partner Organization'
+
+projects:
+- date: Tue Nov 26
+  deadline: December 13, 2024
+  end_date: 2024-12-19 00:00:00
+  link: projects/P6
+  name: P6 - Project Presentations + Report
+  numDays: 17
+
+recitation: null
