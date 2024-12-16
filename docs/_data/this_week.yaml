@@ -1,10 +1,4 @@
-lectures:
-- date: Mon Dec 09
-  link: projects/P6/3_reflection
-  name: 'P6C: Final Project Reflection Due'
-- date: Fri Dec 13
-  link: projects/P6/4_delivery
-  name: 'P6D: Final Project Presentation and Delivery to Partner Organization'
+lectures: []
 
 projects:
 - date: Tue Nov 26
